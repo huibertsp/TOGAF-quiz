@@ -1,0 +1,2757 @@
+[
+  {
+    "id": 1,
+    "question": "Which cycle in TOGAF ADM ensures continuous monitoring of architecture relevance?",
+    "options": [
+      "Preliminary Phase",
+      "Phase H: Architecture Change Management",
+      "Phase G: Implementation Governance",
+      "Phase E: Opportunities & Solutions"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 2,
+    "question": "Which ADM phase defines the scope and business intent of an architecture engagement?",
+    "options": [
+      "Phase A: Architecture Vision",
+      "Phase B: Business Architecture",
+      "Phase E: Opportunities and Solutions",
+      "Phase D: Technology Architecture"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 3,
+    "question": "What is the purpose of the Enterprise Continuum?",
+    "options": [
+      "To track project budgets",
+      "To provide classification of architecture and solution assets for reuse",
+      "To define program increments for agile delivery",
+      "To monitor implementation quality"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 4,
+    "question": "Which architecture domain describes applications and their relationships?",
+    "options": [
+      "Business Architecture",
+      "Data Architecture",
+      "Technology Architecture",
+      "Application Architecture"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 5,
+    "question": "The Standards Information Base in TOGAF stores:",
+    "options": [
+      "Reference models, standards, and guidelines to be reused in architectures",
+      "System implementation budgets",
+      "Vendor-specific roadmaps",
+      "Compliance tracking reports"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 6,
+    "question": "Which ADM phase is concerned with implementation-related governance?",
+    "options": [
+      "Phase C",
+      "Phase G",
+      "Phase D",
+      "Phase F"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 7,
+    "question": "Which concept ensures stakeholder concerns can be addressed through customized representations in TOGAF?",
+    "options": [
+      "View and Viewpoint",
+      "Architecture Principle",
+      "Catalog",
+      "Reference Model"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is true of Architecture Principles?",
+    "options": [
+      "They must be endorsed by stakeholders and provide clear rationale",
+      "They are optional and only needed for technical architecture",
+      "They exist only at project level",
+      "They serve as detailed design specifications"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is NOT a part of the Architecture Repository?",
+    "options": [
+      "Architecture Landscape",
+      "Reference Library",
+      "Standards Information Base",
+      "Project Budget File"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 10,
+    "question": "Which deliverable defines how architecture work will be carried out?",
+    "options": [
+      "Architecture Vision",
+      "Statement of Architecture Work",
+      "Architecture Repository",
+      "Implementation Roadmap"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 11,
+    "question": "Which ADM phase primarily develops the Business Architecture?",
+    "options": [
+      "Phase B",
+      "Phase A",
+      "Phase D",
+      "Phase F"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 12,
+    "question": "Which document defines the high-level value proposition and stakeholder needs for the architecture?",
+    "options": [
+      "Architecture Vision",
+      "Architecture Definition Document",
+      "Architecture Requirements Specification",
+      "Migration Plan"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 13,
+    "question": "Which ADM phase is responsible for developing Data and Application Architectures?",
+    "options": [
+      "Phase D",
+      "Phase C",
+      "Phase F",
+      "Phase H"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 14,
+    "question": "Which artifact captures specific technical and business standards for reuse?",
+    "options": [
+      "Architecture Contract",
+      "Standards Information Base",
+      "Enterprise Continuum",
+      "Architecture Roadmap"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 15,
+    "question": "Which ADM phase conducts Gap Analysis between Baseline and Target states?",
+    "options": [
+      "Phase B",
+      "Phase D",
+      "Phase G",
+      "Phase E"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 16,
+    "question": "Which TOGAF document formally agreements expectations between architects and stakeholders?",
+    "options": [
+      "Architecture Contract",
+      "Architecture Vision",
+      "Implementation Governance Report",
+      "Statement of Work"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 17,
+    "question": "Which ADM phase provides governance during the implementation projects?",
+    "options": [
+      "Phase H",
+      "Phase G",
+      "Phase D",
+      "Phase F"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 18,
+    "question": "Which repository is best described as reusable library of models and patterns?",
+    "options": [
+      "Reference Library",
+      "Architecture Landscape",
+      "Standards Information Base",
+      "Architecture Requirements Repository"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 19,
+    "question": "In which phase is the Architecture Vision approved?",
+    "options": [
+      "Phase H",
+      "Phase G",
+      "Phase A",
+      "Phase F"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 20,
+    "question": "Which scope dimension in ADM determines the level of detail of architecture outputs?",
+    "options": [
+      "Breadth",
+      "Depth",
+      "Time",
+      "Governance"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 21,
+    "question": "What is the role of the Architecture Landscape?",
+    "options": [
+      "To provide a view of current and planned architectures at different levels",
+      "To capture procurement contracts",
+      "To monitor stakeholder influence",
+      "To manage budgeting cycles"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 22,
+    "question": "Which governance body ensures ongoing architecture compliance?",
+    "options": [
+      "Change Advisory Board",
+      "Architecture Board",
+      "Procurement Committee",
+      "Program Management Office"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 23,
+    "question": "Which ADM phase defines the Implementation and Migration Plan?",
+    "options": [
+      "Phase F",
+      "Phase G",
+      "Phase H",
+      "Phase A"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 24,
+    "question": "Which of the following describes Architecture Capability?",
+    "options": [
+      "The ability to develop, sustain, and use architecture to govern change",
+      "The catalog of technology services",
+      "The classification of reusable solutions",
+      "The set of stakeholder concerns addressed by viewpoints"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 25,
+    "question": "Which TOGAF component is classified as both generic and industry-specific?",
+    "options": [
+      "Reference Models",
+      "Architecture Roadmaps",
+      "Building Blocks",
+      "Value Stream Maps"
+    ],
+    "answer": 0
+  },
+    {
+    "id": 26,
+    "question": "Which ADM phase is primarily concerned with developing the Technology Architecture?",
+    "options": [
+      "Phase D",
+      "Phase C",
+      "Phase B",
+      "Phase G"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 27,
+    "question": "Which TOGAF concept ensures architecture assets are classified from generic to specific for effective reuse?",
+    "options": [
+      "Enterprise Continuum",
+      "Architecture Metamodel",
+      "Architecture Contract",
+      "Business Scenario"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 28,
+    "question": "Which repository acts as the central holding place for requirements throughout the ADM cycle?",
+    "options": [
+      "Requirements Repository",
+      "Architecture Landscape",
+      "Reference Library",
+      "Architecture Vision"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 29,
+    "question": "Which ADM phase is where key business drivers and stakeholder concerns are identified?",
+    "options": [
+      "Phase A: Architecture Vision",
+      "Phase B: Business Architecture",
+      "Phase D: Technology Architecture",
+      "Phase H: Architecture Change Management"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 30,
+    "question": "Which deliverable documents quantitative and qualitative requirements?",
+    "options": [
+      "Architecture Requirements Specification",
+      "Statement of Architecture Work",
+      "Architecture Vision",
+      "Architecture Roadmap"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 31,
+    "question": "Which ADM phase identifies and evaluates opportunities for business transformation?",
+    "options": [
+      "Phase B",
+      "Phase E: Opportunities & Solutions",
+      "Phase A",
+      "Phase G"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 32,
+    "question": "Which scope dimension determines how widely across the enterprise an ADM iteration applies?",
+    "options": [
+      "Breadth",
+      "Depth",
+      "Time",
+      "Governance"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 33,
+    "question": "Which TOGAF artifact records Architecture Principles formalized at the start of a project?",
+    "options": [
+      "Architecture Vision",
+      "Preliminary Phase Outputs",
+      "Architecture Contract",
+      "Migration Plan"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 34,
+    "question": "Which ADM phase ensures governance arrangements are established and architecture practice is set up?",
+    "options": [
+      "Preliminary Phase",
+      "Phase B",
+      "Phase A",
+      "Phase E"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 35,
+    "question": "Which component in TOGAF enables architects to demonstrate traceability from drivers to requirements?",
+    "options": [
+      "Architecture Requirements Repository",
+      "Architecture Contract",
+      "Architecture Vision",
+      "Business Scenarios"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 36,
+    "question": "Which ADM phase ensures architectures remain relevant as the organization evolves?",
+    "options": [
+      "Phase G",
+      "Phase H: Architecture Change Management",
+      "Phase C",
+      "Preliminary Phase"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 37,
+    "question": "Which deliverable formally validates that solutions conform to agreed architecture standards?",
+    "options": [
+      "Architecture Requirements Specification",
+      "Implementation Governance Report",
+      "Architecture Definition Document",
+      "Architecture Contract"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 38,
+    "question": "Which ADM phase is responsible for producing the Target Technology Architecture?",
+    "options": [
+      "Phase D",
+      "Phase F",
+      "Phase G",
+      "Phase C"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 39,
+    "question": "Which TOGAF concept is defined as the ability to develop, maintain, and govern architecture discipline?",
+    "options": [
+      "Architecture Capability",
+      "Architecture Governance",
+      "Architecture Repository",
+      "Enterprise Continuum"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 40,
+    "question": "Which catalog in TOGAF documents applications and their interactions?",
+    "options": [
+      "Application Portfolio Catalog",
+      "Requirements Catalog",
+      "Standards Information Base",
+      "Architecture Landscape"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 41,
+    "question": "Which ADM phase produces Architecture Roadmaps for implementation?",
+    "options": [
+      "Phase F: Migration Planning",
+      "Phase G",
+      "Phase B",
+      "Phase E"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 42,
+    "question": "Which TOGAF principle reflects fairness, transparency, and accountability?",
+    "options": [
+      "Architecture Governance",
+      "Architecture Contract",
+      "Architecture Ethics",
+      "Business Capability"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 43,
+    "question": "Which deliverable captures the scope and constraints of an enterprise architecture project?",
+    "options": [
+      "Statement of Architecture Work",
+      "Architecture Landscape",
+      "Architecture Requirements Specification",
+      "Architecture Contract"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 44,
+    "question": "The Enterprise Continuum includes which two major parts?",
+    "options": [
+      "Architecture Continuum and Solutions Continuum",
+      "Baseline Models and Reference Models",
+      "Business Architecture and Technology Architecture",
+      "Architecture Landscape and Reference Library"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 45,
+    "question": "Phase A of the ADM delivers which critical item?",
+    "options": [
+      "Architecture Vision",
+      "Migration Plan",
+      "Gap Analysis",
+      "Architecture Compliance Review"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 46,
+    "question": "Which ADM phase is iterative and ensures compliance of projects with the architecture?",
+    "options": [
+      "Phase G",
+      "Phase F",
+      "Phase C",
+      "Phase B"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 47,
+    "question": "Which TOGAF artifact documents stakeholders, their concerns, and their classification?",
+    "options": [
+      "Stakeholder Map Matrix",
+      "Architecture Contract",
+      "Governance Report",
+      "Architecture Landscape"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 48,
+    "question": "Which ADM phase develops Application Architecture models?",
+    "options": [
+      "Phase C",
+      "Phase D",
+      "Phase B",
+      "Phase H"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 49,
+    "question": "Which of the following is a responsibility of Enterprise Architects?",
+    "options": [
+      "Aligning business strategy with architecture solutions",
+      "Negotiating external vendor contracts",
+      "Designing detailed code modules",
+      "Performing quality control testing of systems"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50,
+    "question": "Which ADM phase creates the Implementation and Migration Plan for delivery projects?",
+    "options": [
+      "Phase F",
+      "Phase E",
+      "Phase H",
+      "Phase B"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 51,
+    "question": "Which TOGAF element categorizes stakeholder concerns using influence and interest?",
+    "options": [
+      "Stakeholder Map Matrix",
+      "Business Scenario",
+      "Requirements Catalog",
+      "Value Stream Map"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 52,
+    "question": "Which ADM phase assesses implementation factors, constraints, and risks?",
+    "options": [
+      "Phase E",
+      "Phase A",
+      "Phase G",
+      "Phase D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 53,
+    "question": "Which deliverable ensures smooth transfer of architectural governance into project execution?",
+    "options": [
+      "Implementation Governance Model",
+      "Architecture Vision",
+      "Architecture Contract",
+      "Migration Roadmap"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 54,
+    "question": "Which ADM phase confirms business value by evaluating delivered solutions?",
+    "options": [
+      "Phase H",
+      "Phase G",
+      "Phase B",
+      "Phase D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 55,
+    "question": "Which content framework part defines catalogs, matrices, and diagrams?",
+    "options": [
+      "Architecture Deliverables",
+      "Architecture Repository",
+      "Architecture Content Metamodel",
+      "Governance Framework"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 56,
+    "question": "Which ADM phase defines baseline and target Business Architecture?",
+    "options": [
+      "Phase B",
+      "Phase A",
+      "Phase F",
+      "Phase H"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 57,
+    "question": "Which TOGAF deliverable ensures alignment from architecture to project implementation?",
+    "options": [
+      "Architecture Contract",
+      "Architecture Vision",
+      "Standards Information Base",
+      "Architecture Roadmap"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 58,
+    "question": "Which ADM phase involves conducting Architecture Compliance Reviews?",
+    "options": [
+      "Phase G",
+      "Phase D",
+      "Phase C",
+      "Phase H"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 59,
+    "question": "Which classification in Enterprise Continuum contains industry-specific best practices?",
+    "options": [
+      "Industry Architectures",
+      "Foundation Architectures",
+      "Common Systems Architectures",
+      "Solutions Continuum"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 60,
+    "question": "Which ADM phase ensures risks are identified and classified for transition planning?",
+    "options": [
+      "Phase E",
+      "Phase F",
+      "Phase G",
+      "Phase A"
+    ],
+    "answer": 0
+  },
+   {
+    "id": 61,
+    "question": "Which ADM phase uses gap analysis to identify missing capabilities in baseline vs. target?",
+    "options": [
+      "Phase B",
+      "Phase C",
+      "Phase D",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 62,
+    "question": "Which TOGAF component defines stakeholder needs and architecture objectives in high-level terms?",
+    "options": [
+      "Architecture Vision",
+      "Architecture Contract",
+      "Statement of Architecture Work",
+      "Architecture Governance Framework"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 63,
+    "question": "Which ADM phase produces the Baseline and Target Application Architecture?",
+    "options": [
+      "Phase D",
+      "Phase C",
+      "Phase F",
+      "Phase H"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 64,
+    "question": "Which TOGAF element ensures requirements are managed consistently across all ADM phases?",
+    "options": [
+      "Requirements Repository",
+      "Architecture Vision",
+      "Enterprise Continuum",
+      "Architecture Governance"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 65,
+    "question": "Which governance activity verifies solutions align with the agreed architecture principles?",
+    "options": [
+      "Architecture Compliance Reviews",
+      "Requirements Management",
+      "Solution Building",
+      "Procurement Oversight"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 66,
+    "question": "Which ADM phase defines implementation governance and compliance arrangements?",
+    "options": [
+      "Phase F",
+      "Phase G",
+      "Phase H",
+      "Phase A"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 67,
+    "question": "Which TOGAF repository component contains industry standards and best practices?",
+    "options": [
+      "Standards Information Base",
+      "Reference Library",
+      "Architecture Landscape",
+      "Enterprise Continuum"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 68,
+    "question": "Which ADM phase provides recommendations on whether to go ahead with a full architecture project?",
+    "options": [
+      "Preliminary Phase",
+      "Phase A",
+      "Phase E",
+      "Phase H"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 69,
+    "question": "Which catalog provides a definitive list of identified business processes?",
+    "options": [
+      "Business Service/Function Catalog",
+      "Application Portfolio Catalog",
+      "Requirements Catalog",
+      "Technology Standards Catalog"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 70,
+    "question": "Which ADM phase defines the Target Business Architecture?",
+    "options": [
+      "Phase B",
+      "Phase A",
+      "Phase C",
+      "Phase F"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 71,
+    "question": "Which deliverable defines the path of transition from baseline to target?",
+    "options": [
+      "Migration Plan",
+      "Statement of Architecture Work",
+      "Architecture Vision",
+      "Architecture Contract"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 72,
+    "question": "Which TOGAF concept supports alignment of architecture with business transformation drivers?",
+    "options": [
+      "Business Scenarios",
+      "Architecture Landscape",
+      "Stakeholder Map Matrix",
+      "Architecture Contract"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 73,
+    "question": "Which ADM phase ensures continuous architecture governance and change monitoring?",
+    "options": [
+      "Phase H",
+      "Phase F",
+      "Phase G",
+      "Phase B"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 74,
+    "question": "Which repository element provides current, intermediate, and target state models?",
+    "options": [
+      "Architecture Landscape",
+      "Enterprise Continuum",
+      "Standards Information Base",
+      "Architecture Requirements Repository"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 75,
+    "question": "Which ADM phase defines which projects should be grouped into work packages?",
+    "options": [
+      "Phase F: Migration Planning",
+      "Phase E: Opportunities and Solutions",
+      "Phase G",
+      "Phase H"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 76,
+    "question": "Which TOGAF deliverable ensures alignment between the architecture team and business sponsors?",
+    "options": [
+      "Architecture Contract",
+      "Architecture Vision",
+      "Implementation Governance Model",
+      "Architecture Definition Document"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 77,
+    "question": "Which ADM phase typically highlights business drivers and value proposition of the architecture?",
+    "options": [
+      "Preliminary Phase",
+      "Phase A",
+      "Phase F",
+      "Phase H"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 78,
+    "question": "Which catalog documents data entities and their relationships?",
+    "options": [
+      "Data Entity/Data Component Catalog",
+      "Business Function Catalog",
+      "Application Portfolio Catalog",
+      "Technology Portfolio Catalog"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 79,
+    "question": "Which ADM phase uses architecture building blocks and solution building blocks to design?",
+    "options": [
+      "Phase C and Phase D",
+      "Phase F",
+      "Phase G",
+      "Phase A"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 80,
+    "question": "Which TOGAF artifact signifies constraints and scope identified at the start of ADM?",
+    "options": [
+      "Statement of Architecture Work",
+      "Architecture Contract",
+      "Architecture Roadmap",
+      "Architecture Vision"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 81,
+    "question": "Which ADM phase provides a risk assessment for migration planning?",
+    "options": [
+      "Phase F",
+      "Phase G",
+      "Phase H",
+      "Phase E"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 82,
+    "question": "Which TOGAF core concept includes Deliverables, Artifacts, and Building Blocks?",
+    "options": [
+      "Content Framework",
+      "ADM Phases",
+      "Enterprise Continuum",
+      "Requirements Management"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 83,
+    "question": "Which ADM phase is responsible for implementation projects and ensuring compliance?",
+    "options": [
+      "Phase G",
+      "Phase B",
+      "Phase C",
+      "Phase D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 84,
+    "question": "Which ADM phase prepares recommendations for transition architectures?",
+    "options": [
+      "Phase E",
+      "Phase F",
+      "Phase G",
+      "Phase H"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 85,
+    "question": "Which repository contains detailed architecture outputs for reuse?",
+    "options": [
+      "Architecture Repository",
+      "Reference Library",
+      "Standards Information Base",
+      "Architecture Continuum"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 86,
+    "question": "Which catalog lists the organization’s technology services and standards?",
+    "options": [
+      "Technology Standards Catalog",
+      "Application Portfolio Catalog",
+      "Business Service Catalog",
+      "Requirements Catalog"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 87,
+    "question": "Which ADM phase ensures proper sequencing of projects in migration planning?",
+    "options": [
+      "Phase F",
+      "Phase E",
+      "Phase C",
+      "Phase B"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 88,
+    "question": "Which TOGAF concept divides stakeholder representation into views and viewpoints?",
+    "options": [
+      "Architecture Views",
+      "Enterprise Continuum",
+      "Architecture Compliance",
+      "Business Scenarios"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 89,
+    "question": "Which ADM phase defines the baseline and target Data Architecture?",
+    "options": [
+      "Phase C",
+      "Phase D",
+      "Phase A",
+      "Phase E"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 90,
+    "question": "Which repository element highlights maturity of the current architecture landscape?",
+    "options": [
+      "Architecture Landscape",
+      "Enterprise Continuum",
+      "Architecture Roadmap",
+      "Governance Log"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 91,
+    "question": "Which ADM phase translates business needs into measurable system requirements?",
+    "options": [
+      "Phase B",
+      "Phase C",
+      "Phase F",
+      "Phase H"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 92,
+    "question": "Which catalog organizes reusable solution components into classifications?",
+    "options": [
+      "Solutions Continuum",
+      "Requirements Catalog",
+      "Architecture Deliverables Matrix",
+      "Building Block Catalog"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 93,
+    "question": "Which ADM phase finalizes the Implementation and Migration Plan?",
+    "options": [
+      "Phase F",
+      "Phase G",
+      "Phase E",
+      "Phase B"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 94,
+    "question": "Which TOGAF deliverable serves as the detailed blueprint of the current and target architecture?",
+    "options": [
+      "Architecture Definition Document",
+      "Statement of Architecture Work",
+      "Architecture Vision",
+      "Architecture Contract"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 95,
+    "question": "Which ADM phase validates delivered architectures against requirements?",
+    "options": [
+      "Phase F",
+      "Phase G",
+      "Phase H",
+      "Phase D"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 96,
+    "question": "Which TOGAF concept ensures catalogs, matrices, and diagrams are consistently modeled?",
+    "options": [
+      "Architecture Content Framework",
+      "Architecture Continuum",
+      "Standards Information Base",
+      "Stakeholder Matrix"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 97,
+    "question": "Which ADM phase creates a high-level description of baseline and target capabilities?",
+    "options": [
+      "Phase A",
+      "Phase B",
+      "Phase E",
+      "Phase H"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 98,
+    "question": "Which TOGAF concept describes identifying and engaging stakeholders early in ADM?",
+    "options": [
+      "Stakeholder Management",
+      "Requirements Management",
+      "Architecture Contract",
+      "Governance Framework"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 99,
+    "question": "Which ADM phase is especially concerned with assessing the value delivered by change?",
+    "options": [
+      "Phase H",
+      "Phase B",
+      "Phase G",
+      "Phase D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 100,
+    "question": "Which catalog maintains a definitive list of architectural requirements?",
+    "options": [
+      "Requirements Catalog",
+      "Application Portfolio",
+      "Technology Standards Catalog",
+      "Data Component Catalog"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 101,
+    "question": "Which ADM phase identifies Business Architecture gaps?",
+    "options": [
+      "Phase B",
+      "Phase A",
+      "Phase H",
+      "Phase F"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 102,
+    "question": "Which TOGAF repository provides building blocks for architecture development?",
+    "options": [
+      "Reference Library",
+      "Solutions Continuum",
+      "Architecture Landscape",
+      "Requirements Repository"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 103,
+    "question": "Which ADM phase defines Application and Data Architectures?",
+    "options": [
+      "Phase C",
+      "Phase D",
+      "Phase B",
+      "Phase F"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 104,
+    "question": "Which TOGAF artifact documents stakeholder classifications based on influence and interest?",
+    "options": [
+      "Stakeholder Map Matrix",
+      "Requirements Catalog",
+      "Architecture Governance Log",
+      "Architecture Roadmap"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 105,
+    "question": "Which ADM phase includes documenting transition architectures?",
+    "options": [
+      "Phase E",
+      "Phase G",
+      "Phase C",
+      "Phase B"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 106,
+    "question": "Which TOGAF principle ensures architecture supports business alignment and value?",
+    "options": [
+      "Business-Driven",
+      "Simplicity",
+      "Flexibility",
+      "Technical Accuracy"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 107,
+    "question": "Which ADM phase confirms compliance of implementation projects with architecture contracts?",
+    "options": [
+      "Phase G",
+      "Phase F",
+      "Phase H",
+      "Phase D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 108,
+    "question": "Which catalog includes applications mapped to business capabilities?",
+    "options": [
+      "Application Portfolio Catalog",
+      "Business Services Catalog",
+      "Requirements Catalog",
+      "Technology Standards Catalog"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 109,
+    "question": "Which ADM phase ensures continuous control over approved architecture?",
+    "options": [
+      "Phase H",
+      "Phase B",
+      "Phase G",
+      "Phase E"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 110,
+    "question": "Which TOGAF element describes classification of reusable architecture and solution assets?",
+    "options": [
+      "Enterprise Continuum",
+      "Architecture Roadmap",
+      "Architecture Vision",
+      "Reference Library"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 111,
+    "question": "Which ADM phase addresses implementation factor constraints?",
+    "options": [
+      "Phase E",
+      "Phase D",
+      "Phase B",
+      "Phase G"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 112,
+    "question": "Which TOGAF concept supports tailoring architecture to stakeholder communication needs?",
+    "options": [
+      "Views and Viewpoints",
+      "Content Metamodel",
+      "Architecture Contract",
+      "Architecture Continuum"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 113,
+    "question": "Which ADM phase proposes and evaluates solution approaches?",
+    "options": [
+      "Phase E",
+      "Phase F",
+      "Phase H",
+      "Phase A"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 114,
+    "question": "Which repository element is designed to maintain standards and policies?",
+    "options": [
+      "Standards Information Base",
+      "Reference Library",
+      "Architecture Landscape",
+      "Enterprise Continuum"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 115,
+    "question": "Which ADM phase defines transition architectures as intermediate states?",
+    "options": [
+      "Phase E",
+      "Phase C",
+      "Phase G",
+      "Phase B"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 116,
+    "question": "Which TOGAF deliverable integrates baseline and target architecture views into a single document?",
+    "options": [
+      "Architecture Definition Document",
+      "Statement of Architecture Work",
+      "Architecture Contract",
+      "Migration Plan"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 117,
+    "question": "Which ADM phase reconciles project outcomes with architecture objectives?",
+    "options": [
+      "Phase G",
+      "Phase H",
+      "Phase F",
+      "Phase B"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 118,
+    "question": "Which catalog ensures consistent reference of data components across ADM phases?",
+    "options": [
+      "Data Component Catalog",
+      "Application Portfolio",
+      "Technology Standards Catalog",
+      "Requirements Catalog"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 119,
+    "question": "Which ADM phase validates solutions deliver intended business value?",
+    "options": [
+      "Phase H",
+      "Phase E",
+      "Phase G",
+      "Phase F"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 120,
+    "question": "Which repository part ensures lessons learned and best practices are reused?",
+    "options": [
+      "Reference Library",
+      "Standards Information Base",
+      "Architecture Landscape",
+      "Architecture Contract"
+    ],
+    "answer": 0
+  },
+    {
+    "id": 121,
+    "question": "Which ADM phase defines requirements for transition architectures and migration planning?",
+    "options": [
+      "Phase E",
+      "Phase F",
+      "Phase B",
+      "Phase H"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 122,
+    "question": "Which TOGAF element provides a structure for defining catalogs, matrices, and diagrams?",
+    "options": [
+      "Content Metamodel",
+      "Architecture Landscape",
+      "Enterprise Continuum",
+      "Architecture Principles"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 123,
+    "question": "Which ADM phase validates whether implemented projects conform with architecture contracts?",
+    "options": [
+      "Phase G",
+      "Phase F",
+      "Phase E",
+      "Phase H"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 124,
+    "question": "Which deliverable provides a detailed specification of requirements for architecture?",
+    "options": [
+      "Architecture Requirements Specification",
+      "Statement of Architecture Work",
+      "Architecture Vision",
+      "Architecture Contract"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 125,
+    "question": "Which ADM phase documents how architecture supports enterprise transformation opportunities?",
+    "options": [
+      "Phase E",
+      "Phase B",
+      "Phase G",
+      "Phase H"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 126,
+    "question": "Which catalog lists standards applicable across the enterprise?",
+    "options": [
+      "Standards Information Base",
+      "Technology Portfolio Catalog",
+      "Application Portfolio Catalog",
+      "Business Services Catalog"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 127,
+    "question": "Which ADM phase ensures architecture remains relevant during execution?",
+    "options": [
+      "Phase H",
+      "Phase G",
+      "Phase E",
+      "Phase B"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 128,
+    "question": "Which TOGAF repository integrates deliverables, standards, and models into a single structure?",
+    "options": [
+      "Architecture Repository",
+      "Architecture Continuum",
+      "Reference Library",
+      "Architecture Contract"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 129,
+    "question": "Which ADM phase finalizes work packages for migration planning?",
+    "options": [
+      "Phase F",
+      "Phase G",
+      "Phase E",
+      "Phase C"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 130,
+    "question": "Which TOGAF component represents repeatable solution elements?",
+    "options": [
+      "Building Blocks",
+      "Architecture Vision",
+      "Migration Roadmap",
+      "Requirements Catalog"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 131,
+    "question": "Which ADM phase involves confirming that activities comply with architecture governance?",
+    "options": [
+      "Phase G",
+      "Phase B",
+      "Phase F",
+      "Phase E"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 132,
+    "question": "Which catalog lists the data entities required by the enterprise?",
+    "options": [
+      "Data Entity Catalog",
+      "Application Portfolio",
+      "Requirements Repository",
+      "Technology Standards Catalog"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 133,
+    "question": "Which ADM phase ensures new architecture is embedded as a living discipline?",
+    "options": [
+      "Phase H",
+      "Phase D",
+      "Phase B",
+      "Phase C"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 134,
+    "question": "Which TOGAF artifact describes architecture in terms of stakeholder concerns?",
+    "options": [
+      "Architecture View",
+      "Requirements Catalog",
+      "Standards Information Base",
+      "Architecture Roadmap"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 135,
+    "question": "Which ADM phase generates recommendations for subsequent architecture work?",
+    "options": [
+      "Phase H",
+      "Phase A",
+      "Phase G",
+      "Phase F"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 136,
+    "question": "Which deliverable defines commitments on architecture compliance?",
+    "options": [
+      "Architecture Contract",
+      "Statement of Architecture Work",
+      "Architecture Vision",
+      "Architecture Requirements Specification"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 137,
+    "question": "Which ADM phase defines application system requirements?",
+    "options": [
+      "Phase C",
+      "Phase B",
+      "Phase D",
+      "Phase E"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 138,
+    "question": "Which TOGAF concept categorizes existing, interim, and target architectures?",
+    "options": [
+      "Architecture Landscape",
+      "Requirements Repository",
+      "Enterprise Continuum",
+      "Standards Information Base"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 139,
+    "question": "Which ADM phase defines potential implementation projects?",
+    "options": [
+      "Phase E",
+      "Phase B",
+      "Phase C",
+      "Phase D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 140,
+    "question": "Which deliverable represents a tactical roadmap for architecture realization?",
+    "options": [
+      "Implementation and Migration Plan",
+      "Statement of Architecture Work",
+      "Architecture Contract",
+      "Architecture Vision"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 141,
+    "question": "Which ADM phase ensures architects monitor changes in business environment?",
+    "options": [
+      "Phase H",
+      "Phase G",
+      "Phase E",
+      "Phase B"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 142,
+    "question": "Which TOGAF catalog records drivers and strategic goals?",
+    "options": [
+      "Goals/Drivers/Objective Catalog",
+      "Requirements Catalog",
+      "Application Portfolio",
+      "Technology Standards Catalog"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 143,
+    "question": "Which ADM phase defines risk mitigation actions for migration?",
+    "options": [
+      "Phase F",
+      "Phase G",
+      "Phase H",
+      "Phase A"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 144,
+    "question": "Which component in TOGAF ensures reusable industry-specific guidance?",
+    "options": [
+      "Industry Architectures",
+      "Foundation Architectures",
+      "Solutions Continuum",
+      "Architecture Roadmap"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 145,
+    "question": "Which ADM phase is responsible for data-related architecture deliverables?",
+    "options": [
+      "Phase C",
+      "Phase B",
+      "Phase D",
+      "Phase E"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 146,
+    "question": "Which TOGAF repository element provides intermediate architectures to describe migration?",
+    "options": [
+      "Transition Architectures",
+      "Architecture Landscape",
+      "Reference Library",
+      "Architecture Contract"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 147,
+    "question": "Which ADM phase refines the Architecture Vision into detailed architectures?",
+    "options": [
+      "Phase B, C, and D",
+      "Phase E",
+      "Phase F",
+      "Phase H"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 148,
+    "question": "Which catalog records technology components used in the enterprise?",
+    "options": [
+      "Technology Portfolio Catalog",
+      "Application Catalog",
+      "Requirements Catalog",
+      "Data Catalog"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 149,
+    "question": "Which ADM phase manages approved changes to architecture contracts?",
+    "options": [
+      "Phase H",
+      "Phase G",
+      "Phase F",
+      "Phase D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 150,
+    "question": "Which TOGAF artifact ensures stakeholder concerns are addressed explicitly?",
+    "options": [
+      "Views and Viewpoints",
+      "Requirements Catalog",
+      "Architecture Contract",
+      "Enterprise Continuum"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 151,
+    "question": "Which ADM phase approves the Statement of Architecture Work?",
+    "options": [
+      "Preliminary Phase",
+      "Phase A",
+      "Phase F",
+      "Phase G"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 152,
+    "question": "Which TOGAF deliverable communicates architecture to stakeholders at a high-level?",
+    "options": [
+      "Architecture Vision",
+      "Architecture Definition Document",
+      "Architecture Contract",
+      "Migration Plan"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 153,
+    "question": "Which ADM phase ensures migration projects are organized into increments?",
+    "options": [
+      "Phase E",
+      "Phase F",
+      "Phase G",
+      "Phase H"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 154,
+    "question": "Which catalog captures targeted capabilities for the business?",
+    "options": [
+      "Business Capability Map",
+      "Application Portfolio Catalog",
+      "Technology Standards Catalog",
+      "Architecture Roadmap"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 155,
+    "question": "Which ADM phase formally approves transition architectures?",
+    "options": [
+      "Phase F",
+      "Phase E",
+      "Phase G",
+      "Phase H"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 156,
+    "question": "Which repository captures and tracks lessons learned across ADM iterations?",
+    "options": [
+      "Architecture Requirements Repository",
+      "Architecture Landscape",
+      "Standards Information Base",
+      "Reference Library"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 157,
+    "question": "Which ADM phase defines both logical and physical technology architectures?",
+    "options": [
+      "Phase D",
+      "Phase B",
+      "Phase C",
+      "Phase F"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 158,
+    "question": "Which TOGAF concept ensures reuse of external models in architecture design?",
+    "options": [
+      "Reference Models",
+      "Architecture Roadmap",
+      "Requirements Catalog",
+      "Architecture Vision"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 159,
+    "question": "Which ADM phase evaluates change requests for architecture?",
+    "options": [
+      "Phase H",
+      "Phase G",
+      "Phase E",
+      "Phase F"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 160,
+    "question": "Which catalog captures IT services used across business units?",
+    "options": [
+      "Technology Services Catalog",
+      "Requirements Catalog",
+      "Business Functions Catalog",
+      "Application Catalog"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 161,
+    "question": "Which ADM phase creates an Architecture Roadmap?",
+    "options": [
+      "Phase E",
+      "Phase F",
+      "Phase B",
+      "Phase C"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 162,
+    "question": "Which TOGAF deliverable proves compliance and agreement between architects and sponsors?",
+    "options": [
+      "Architecture Contract",
+      "Architecture Vision",
+      "Statement of Architecture Work",
+      "Architecture Roadmap"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 163,
+    "question": "Which ADM phase monitors and analyzes business environment for triggers?",
+    "options": [
+      "Phase H",
+      "Phase G",
+      "Phase F",
+      "Phase D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 164,
+    "question": "Which TOGAF catalog provides a master list of identified applications?",
+    "options": [
+      "Application Portfolio Catalog",
+      "Technology Portfolio",
+      "Business Service Catalog",
+      "Requirements Catalog"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 165,
+    "question": "Which ADM phase ensures change requests are documented and approved?",
+    "options": [
+      "Phase H",
+      "Phase F",
+      "Phase C",
+      "Phase A"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 166,
+    "question": "Which TOGAF repository delivers libraries of reusable capability-based solutions?",
+    "options": [
+      "Reference Library",
+      "Architecture Landscape",
+      "Standards Base",
+      "Architecture Contract"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 167,
+    "question": "Which ADM phase verifies whether implementation projects align with migration plan?",
+    "options": [
+      "Phase G",
+      "Phase H",
+      "Phase F",
+      "Phase E"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 168,
+    "question": "Which TOGAF principle underscores maximizing reuse of architectural components?",
+    "options": [
+      "Reuse Before Buy Before Build",
+      "Technology Independence",
+      "Separation of Concerns",
+      "Value Delivery"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 169,
+    "question": "Which ADM phase manages project initiation according to migration sequencing?",
+    "options": [
+      "Phase F",
+      "Phase G",
+      "Phase H",
+      "Phase B"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 170,
+    "question": "Which catalog captures external system interfaces?",
+    "options": [
+      "Application Interface Catalog",
+      "Requirements Catalog",
+      "Business Process Catalog",
+      "Data Entity Catalog"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 171,
+    "question": "Which ADM phase incorporates lessons learned into continuous architecture practice?",
+    "options": [
+      "Phase H",
+      "Phase G",
+      "Phase E",
+      "Phase D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 172,
+    "question": "Which TOGAF deliverable specifies standards and policies for project execution?",
+    "options": [
+      "Implementation Governance Model",
+      "Architecture Vision",
+      "Architecture Contract",
+      "Statement of Architecture Work"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 173,
+    "question": "Which ADM phase packages project increments into programs?",
+    "options": [
+      "Phase F",
+      "Phase G",
+      "Phase H",
+      "Phase D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 174,
+    "question": "Which TOGAF concept emphasizes balancing opportunities and risks?",
+    "options": [
+      "Risk Management",
+      "Implementation Governance",
+      "Transition Planning",
+      "System Engineering"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 175,
+    "question": "Which ADM phase produces detailed descriptions of services across architecture domains?",
+    "options": [
+      "Phase B, C, D",
+      "Phase E",
+      "Phase F",
+      "Phase A"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 176,
+    "question": "Which catalog records attributes of logical and physical technology components?",
+    "options": [
+      "Technology Standards Catalog",
+      "Application Portfolio Catalog",
+      "Requirements Catalog",
+      "Data Entity Catalog"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 177,
+    "question": "Which ADM phase continuously assesses realized value of implemented architecture?",
+    "options": [
+      "Phase H",
+      "Phase F",
+      "Phase G",
+      "Phase C"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 178,
+    "question": "Which TOGAF principle recommends separation of concerns for clarity?",
+    "options": [
+      "Separation of Concerns",
+      "Value Delivery",
+      "Business-Driven",
+      "Technology Neutrality"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 179,
+    "question": "Which ADM phase conducts a review of architecture maturity for evolution?",
+    "options": [
+      "Phase H",
+      "Phase G",
+      "Phase E",
+      "Phase B"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 180,
+    "question": "Which catalog provides reference to business value streams?",
+    "options": [
+      "Value Stream Catalog",
+      "Business Service Catalog",
+      "Application Portfolio",
+      "Requirements Catalog"
+    ],
+    "answer": 0
+  },
+   {
+    "id": 181,
+    "question": "Which ADM phase defines architecture requirements for data and application integration?",
+    "options": [
+      "Phase C",
+      "Phase B",
+      "Phase D",
+      "Phase A"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 182,
+    "question": "Which TOGAF artifact provides structured matrices to model relationships across components?",
+    "options": [
+      "Matrices",
+      "Catalogs",
+      "Viewpoints",
+      "Architecture Contracts"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 183,
+    "question": "Which ADM phase is responsible for verifying that migration activities remain aligned?",
+    "options": [
+      "Phase G",
+      "Phase H",
+      "Phase E",
+      "Phase B"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 184,
+    "question": "Which TOGAF component describes stakeholder concerns from different perspectives?",
+    "options": [
+      "Viewpoints",
+      "Matrices",
+      "Enterprise Continuum",
+      "Standards Information Base"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 185,
+    "question": "Which ADM phase governs how change requests are handled?",
+    "options": [
+      "Phase H",
+      "Phase F",
+      "Phase C",
+      "Phase E"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 186,
+    "question": "Which catalog documents the alignment of applications to technologies?",
+    "options": [
+      "Application/Technology Matrix",
+      "Requirements Catalog",
+      "Business Service Catalog",
+      "Data Catalog"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 187,
+    "question": "Which ADM phase evaluates whether the realized architecture continues to deliver business value?",
+    "options": [
+      "Phase H",
+      "Phase G",
+      "Phase E",
+      "Phase B"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 188,
+    "question": "Which TOGAF principle emphasizes interoperable and standardized solutions?",
+    "options": [
+      "Interoperability",
+      "Reuse",
+      "Business Alignment",
+      "Technology Neutrality"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 189,
+    "question": "Which ADM phase defines change governance procedures?",
+    "options": [
+      "Phase H",
+      "Phase G",
+      "Phase D",
+      "Phase F"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 190,
+    "question": "Which TOGAF artifact documents the organization’s principles for using architecture?",
+    "options": [
+      "Architecture Principles Catalog",
+      "Requirements Catalog",
+      "Architecture Vision",
+      "Migration Roadmap"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 191,
+    "question": "Which ADM phase manages the integration of incremental transitions?",
+    "options": [
+      "Phase F",
+      "Phase G",
+      "Phase E",
+      "Phase H"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 192,
+    "question": "Which TOGAF catalog ensures alignment of technology with organizational capability?",
+    "options": [
+      "Technology Portfolio Catalog",
+      "Application Portfolio Catalog",
+      "Business Service Map",
+      "Requirements Catalog"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 193,
+    "question": "Which ADM phase includes aligning systems development projects with architecture?",
+    "options": [
+      "Phase G",
+      "Phase H",
+      "Phase C",
+      "Phase F"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 194,
+    "question": "Which TOGAF concept enables tailoring ADM to organizational context?",
+    "options": [
+      "Architecture Governance",
+      "Customization of ADM",
+      "Content Framework",
+      "Enterprise Continuum"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 195,
+    "question": "Which ADM phase measures realized outcomes of architecture benefits?",
+    "options": [
+      "Phase H",
+      "Phase G",
+      "Phase F",
+      "Phase B"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 196,
+    "question": "Which TOGAF repository provides reusable patterns and reference models?",
+    "options": [
+      "Reference Library",
+      "Standards Information Base",
+      "Architecture Landscape",
+      "Requirements Repository"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 197,
+    "question": "Which ADM phase defines constraints coming from business and technology context?",
+    "options": [
+      "Phase A",
+      "Phase B",
+      "Preliminary Phase",
+      "Phase G"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 198,
+    "question": "Which TOGAF template records stakeholder interests and priorities?",
+    "options": [
+      "Stakeholder Map Matrix",
+      "Requirements Catalog",
+      "Architecture Vision",
+      "Roadmap"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 199,
+    "question": "Which ADM phase determines incremental deliverables for sequencing?",
+    "options": [
+      "Phase F",
+      "Phase D",
+      "Phase C",
+      "Phase B"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 200,
+    "question": "Which TOGAF principle supports technology solutions with openness and interoperability?",
+    "options": [
+      "Technology Neutrality",
+      "Open Standards",
+      "Reusability",
+      "Service Orientation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 201,
+    "question": "Which ADM phase enables the assessment of readiness for transformation programs?",
+    "options": [
+      "Phase A",
+      "Phase E",
+      "Phase F",
+      "Preliminary Phase"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 202,
+    "question": "Which TOGAF catalog aligns IT services to business objectives?",
+    "options": [
+      "Technology Services Catalog",
+      "Business Services Catalog",
+      "Application Services Map",
+      "Requirements Catalog"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 203,
+    "question": "Which ADM phase ensures that business drivers are recorded and stakeholder buy-in is achieved?",
+    "options": [
+      "Phase A",
+      "Phase B",
+      "Phase D",
+      "Phase H"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 204,
+    "question": "Which TOGAF repository facilitates sharing architectures across multiple domains?",
+    "options": [
+      "Architecture Landscape",
+      "Reference Library",
+      "Solutions Continuum",
+      "Standards Information Base"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 205,
+    "question": "Which ADM phase establishes the Architecture Capability and governance structures?",
+    "options": [
+      "Preliminary Phase",
+      "Phase A",
+      "Phase F",
+      "Phase E"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 206,
+    "question": "Which TOGAF deliverable defines the baseline and target descriptions of all architectures?",
+    "options": [
+      "Architecture Definition Document",
+      "Architecture Vision",
+      "Architecture Contract",
+      "Migration Plan"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 207,
+    "question": "Which ADM phase categorizes identified risks and mitigation actions?",
+    "options": [
+      "Phase E",
+      "Phase B",
+      "Phase A",
+      "Phase H"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 208,
+    "question": "Which TOGAF component enables the consistent use of building blocks in ADM?",
+    "options": [
+      "Content Framework",
+      "Reference Models",
+      "Enterprise Continuum",
+      "Architecture Vision"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 209,
+    "question": "Which ADM phase provides strategic guidance on sequencing initiatives?",
+    "options": [
+      "Phase F",
+      "Phase G",
+      "Phase A",
+      "Phase H"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 210,
+    "question": "Which TOGAF deliverable sets constraints for project teams to follow?",
+    "options": [
+      "Architecture Contract",
+      "Architecture Vision",
+      "Architecture Roadmap",
+      "Statement of Architecture Work"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 211,
+    "question": "Which ADM phase ensures monitoring of architecture compliance and benefits realization?",
+    "options": [
+      "Phase H",
+      "Phase G",
+      "Phase B",
+      "Phase F"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 212,
+    "question": "Which TOGAF concept integrates architecture with portfolio and project management?",
+    "options": [
+      "Architecture Governance",
+      "Portfolio Alignment",
+      "Implementation Governance Model",
+      "Enterprise Continuum"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 213,
+    "question": "Which ADM phase ensures architecture migrations are aligned with value delivery?",
+    "options": [
+      "Phase F",
+      "Phase H",
+      "Phase G",
+      "Phase C"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 214,
+    "question": "Which TOGAF catalog tracks architecture viewpoints used to address concerns?",
+    "options": [
+      "Views Viewpoint Catalog",
+      "Requirements Catalog",
+      "Application Portfolio",
+      "Technology Portfolio"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 215,
+    "question": "Which ADM phase ensures architecture principles remain consistent with business strategy?",
+    "options": [
+      "Phase H",
+      "Phase B",
+      "Phase F",
+      "Phase E"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 216,
+    "question": "Which TOGAF artifact documents current and target states of enterprise capabilities?",
+    "options": [
+      "Architecture Roadmap",
+      "Architecture Definition Document",
+      "Architecture Vision",
+      "Implementation Plan"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 217,
+    "question": "Which ADM phase authorizes initiation of projects from migration planning?",
+    "options": [
+      "Phase F",
+      "Phase G",
+      "Phase H",
+      "Phase B"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 218,
+    "question": "Which TOGAF repository contains reusable building blocks for solutions?",
+    "options": [
+      "Solutions Continuum",
+      "Architecture Landscape",
+      "Reference Library",
+      "Architecture Governance"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 219,
+    "question": "Which ADM phase validates that business requirements have been addressed?",
+    "options": [
+      "Phase B",
+      "Phase G",
+      "Phase D",
+      "Phase F"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 220,
+    "question": "Which TOGAF component represents generic to specific architectures?",
+    "options": [
+      "Architecture Continuum",
+      "Enterprise Continuum",
+      "Reference Library",
+      "Standards Information Base"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 221,
+    "question": "Which ADM phase maintains oversight over implemented solutions?",
+    "options": [
+      "Phase H",
+      "Phase F",
+      "Phase G",
+      "Phase C"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 222,
+    "question": "Which TOGAF principle emphasizes flexibility for future change?",
+    "options": [
+      "Adaptability",
+      "Reuse",
+      "Technology Neutrality",
+      "Separation of Concerns"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 223,
+    "question": "Which ADM phase documents residual risks after migration?",
+    "options": [
+      "Phase F",
+      "Phase H",
+      "Phase B",
+      "Phase E"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 224,
+    "question": "Which TOGAF repository supports architecture knowledge capture and reuse?",
+    "options": [
+      "Architecture Repository",
+      "Enterprise Continuum",
+      "Standards Information Base",
+      "Architecture Contract"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 225,
+    "question": "Which ADM phase creates Architecture Roadmap and Migration Plan?",
+    "options": [
+      "Phase F",
+      "Phase C",
+      "Phase H",
+      "Phase B"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 226,
+    "question": "Which TOGAF artifact classifies viewpoints into catalogs, matrices, and diagrams?",
+    "options": [
+      "Content Framework",
+      "Architecture Continuum",
+      "Enterprise Continuum",
+      "Governance Framework"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 227,
+    "question": "Which ADM phase governs contracts through Architecture Compliance Review?",
+    "options": [
+      "Phase G",
+      "Phase F",
+      "Phase H",
+      "Phase C"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 228,
+    "question": "Which TOGAF deliverable establishes formal agreement between architects and implementers?",
+    "options": [
+      "Architecture Contract",
+      "Architecture Vision",
+      "Architecture Definition Document",
+      "Statement of Architecture Work"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 229,
+    "question": "Which ADM phase documents capacity planning for migration?",
+    "options": [
+      "Phase F",
+      "Phase B",
+      "Phase G",
+      "Phase H"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 230,
+    "question": "Which catalog maps applications to organizational units?",
+    "options": [
+      "Application Organization Matrix",
+      "Technology Portfolio",
+      "Data Entity Catalog",
+      "Requirements Catalog"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 231,
+    "question": "Which ADM phase maintains ongoing governance log for architecture?",
+    "options": [
+      "Phase H",
+      "Phase G",
+      "Phase B",
+      "Phase D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 232,
+    "question": "Which TOGAF repository provides compliance records and metrics?",
+    "options": [
+      "Governance Repository",
+      "Architecture Repository",
+      "Standards Information Base",
+      "Enterprise Continuum"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 233,
+    "question": "Which ADM phase ensures architecture vision is still aligned with evolving strategies?",
+    "options": [
+      "Phase H",
+      "Phase A",
+      "Phase G",
+      "Phase F"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 234,
+    "question": "Which TOGAF deliverable provides planned increments for realization?",
+    "options": [
+      "Architecture Roadmap",
+      "Implementation Governance Model",
+      "Architecture Contract",
+      "Architecture Requirements"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 235,
+    "question": "Which ADM phase includes capturing post-implementation lessons learned?",
+    "options": [
+      "Phase H",
+      "Phase F",
+      "Phase B",
+      "Phase G"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 236,
+    "question": "Which TOGAF concept indicates iterative cycles within ADM to support agility?",
+    "options": [
+      "Iteration and Levels",
+      "Architecture Continuum",
+      "Stakeholder Mapping",
+      "Content Framework"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 237,
+    "question": "Which ADM phase ensures solutions meet stakeholder value expectations?",
+    "options": [
+      "Phase H",
+      "Phase F",
+      "Phase G",
+      "Phase B"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 238,
+    "question": "Which catalog relates logical data models to physical databases?",
+    "options": [
+      "Data Dissemination Diagram",
+      "Data Entity Catalog",
+      "Database Mapping Matrix",
+      "Technology Standards Catalog"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 239,
+    "question": "Which ADM phase confirms implemented projects align with migration plan?",
+    "options": [
+      "Phase G",
+      "Phase F",
+      "Phase H",
+      "Phase C"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 240,
+    "question": "Which TOGAF component distinguishes Foundation and Common Systems architectures?",
+    "options": [
+      "Architecture Continuum",
+      "Enterprise Continuum",
+      "Standards Information Base",
+      "Architecture Repository"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 241,
+    "question": "Which ADM phase ensures effective acceptance testing and deployment?",
+    "options": [
+      "Phase G",
+      "Phase F",
+      "Phase H",
+      "Phase E"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 242,
+    "question": "Which TOGAF catalog describes organization units, roles, and responsibilities?",
+    "options": [
+      "Organization/Actor Catalog",
+      "Requirements Catalog",
+      "Business Service Catalog",
+      "Application Portfolio"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 243,
+    "question": "Which ADM phase formally closes the architecture engagement?",
+    "options": [
+      "Phase H",
+      "Phase G",
+      "Phase F",
+      "Phase C"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 244,
+    "question": "Which TOGAF principle ensures cost-effective architectures through reuse?",
+    "options": [
+      "Reuse Before Buy Before Build",
+      "Value Realization",
+      "Technology Agnostic",
+      "Separation of Concerns"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 245,
+    "question": "Which ADM phase introduces architecture change requests as input for cycles?",
+    "options": [
+      "Phase H",
+      "Phase E",
+      "Phase F",
+      "Phase G"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 246,
+    "question": "Which TOGAF deliverable provides an agreement of roles, responsibilities, and deliverables?",
+    "options": [
+      "Statement of Architecture Work",
+      "Architecture Contract",
+      "Implementation Governance",
+      "Architecture Vision"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 247,
+    "question": "Which ADM phase ensures program and project initiation follows migration sequencing?",
+    "options": [
+      "Phase F",
+      "Phase G",
+      "Phase A",
+      "Phase B"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 248,
+    "question": "Which TOGAF repository allows grouping of deliverables into formal architecture packages?",
+    "options": [
+      "Architecture Repository",
+      "Enterprise Continuum",
+      "Reference Library",
+      "Architecture Landscape"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 249,
+    "question": "Which ADM phase initiates governance compliance reviews of implemented solutions?",
+    "options": [
+      "Phase G",
+      "Phase H",
+      "Phase D",
+      "Phase B"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 250,
+    "question": "Which TOGAF artifact provides a time-sequenced implementation schedule?",
+    "options": [
+      "Migration Roadmap",
+      "Standards Information Base",
+      "Architecture Requirements Specification",
+      "Viewpoint Model"
+    ],
+    "answer": 0
+  }
+]
+
+
+
+
+]
