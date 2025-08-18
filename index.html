@@ -1,10 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
+<!--
+General Purpose:
+This web application enables users to efficiently practice for the TOGAF 10 Enterprise Architecture Foundation exam. 
+It delivers randomized question sets, tracks progress and performance, and leverages browser storage for adaptive learning.
+
+Version History:
+| Timestamp           | Description                                                                       |
+|---------------------|----------------------------------------------------------------------------------|
+| 2025-08-17 21:02 EDT| Initial release: responsive layout, 40-question selection, feedback, restart     |
+| 2025-08-18 13:49 EDT| Added version tracking and update logging in comment block per user instructions |
+| 2025-08-18 13:50 EDT| Feature: Exclude question for 7 days if answered correctly 3 times in a row      |
+| 2025-08-18 13:58 EDT| Moved version history between <html lang> and <head>; formatted as 2-column table|
+-->
 <head>
   <meta charset="UTF-8" />
   <title>TOGAF 10 - Enterprise Architecture Foundation</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <style>
+    /* CSS unchanged – see previous version for details */
     body {
       font-family: Arial, sans-serif;
       background: #f7f9fc;
@@ -126,8 +140,6 @@
       padding: 16px;
       border-radius: 6px;
     }
-
-    /* ---------- Responsive Enhancements ---------- */
     @media (max-width: 600px) {
       header h1 {
         font-size: 7vw;
@@ -154,7 +166,7 @@
   <header>
     <h1>TOGAF 10 - Enterprise Architecture Foundation</h1>
     <div class="meta">
-      Version: v1.0.0 | Total Questions: <span id="total-questions">--</span>
+      Version: v1.1 | Total Questions: <span id="total-questions">--</span>
     </div>
   </header>
   <div class="container">
@@ -169,28 +181,39 @@
     <div id="error-area" class="error" style="display:none;"></div>
   </div>
   <script>
-    /*
-    Application Description:
-    This web application is designed for practicing TOGAF 10 Enterprise Architecture Foundation multiple-choice exams.
-    It randomizes question order and answer options, selects up to 40 questions per session from a larger question bank,
-    provides immediate feedback on answers, shows progress, and gives a final pass/fail result.
+    // ---- LocalStorage Management ----
+    function getQuestionHistory() {
+      try {
+        return JSON.parse(localStorage.getItem('questionHistory')) || {};
+      } catch (e) {
+        return {};
+      }
+    }
+    function setQuestionHistory(history) {
+      localStorage.setItem('questionHistory', JSON.stringify(history));
+    }
+    function excludeExpiredQuestions(history) {
+      const now = Date.now();
+      for (const id in history) {
+        if (
+          history[id].excludeUntil &&
+          now > history[id].excludeUntil
+        ) {
+          history[id].excludeUntil = null;
+          history[id].correctStreak = 0;
+        }
+      }
+      setQuestionHistory(history);
+      return history;
+    }
 
-    Version History:
-    v1.0.0 (2025-08-17):
-      - Initial release with:
-        * Randomized questions & answers
-        * 40-question session selection
-        * Immediate feedback for each question
-        * Progress indicator and final result with pass criteria 55%
-        * Error handling for loading issues
-        * Restart with same or new set of questions
-        * Responsive layout for desktop and mobile
-    */
+    // ---- Core Quiz Logic ----
     let allQuestions = [];
     let questions = [];
     let currentQuestion = 0;
     let score = 0;
     let lastSelectedQuestions = [];
+    let questionHistory = {};
 
     function shuffle(array) {
       for (let i = array.length - 1; i > 0; i--) {
@@ -206,6 +229,8 @@
         if (!response.ok) throw new Error("Failed to load questions.json");
         allQuestions = await response.json();
         document.getElementById("total-questions").textContent = allQuestions.length;
+        questionHistory = getQuestionHistory();
+        questionHistory = excludeExpiredQuestions(questionHistory);
         startNewQuizSession();
       } catch (err) {
         document.getElementById("error-area").style.display = "block";
@@ -214,16 +239,44 @@
       }
     }
 
+    function filterQuestionsForSession(rawQuestions) {
+      const now = Date.now();
+      return rawQuestions.filter(q => {
+        const hist = questionHistory[q.id];
+        // Only exclude if excludeUntil is set, and in the future
+        return !(
+          hist &&
+          hist.excludeUntil &&
+          now < hist.excludeUntil
+        );
+      });
+    }
+
     function startNewQuizSession(newSet = true) {
       score = 0;
       currentQuestion = 0;
+
+      let availableQuestions = filterQuestionsForSession(allQuestions);
+      if (availableQuestions.length < 40 && allQuestions.length >= 40) {
+        alert('Fewer than 40 questions are available because some have been excluded for 7 days.');
+      }
+
       if (newSet) {
-        questions = shuffle(allQuestions.slice());
+        questions = shuffle(availableQuestions.slice());
         if (questions.length > 40) questions = questions.slice(0, 40);
         lastSelectedQuestions = questions.slice();
       } else {
-        questions = lastSelectedQuestions.slice();
+        questions = lastSelectedQuestions.slice().filter(q =>
+          availableQuestions.some(aval => aval.id === q.id)
+        );
+        if (questions.length === 0) {
+          alert('All questions in the previous set have been excluded for 7 days. A new set will be chosen.');
+          questions = shuffle(availableQuestions.slice());
+          if (questions.length > 40) questions = questions.slice(0, 40);
+          lastSelectedQuestions = questions.slice();
+        }
       }
+
       showQuestion();
       document.getElementById("result-area").style.display = "none";
       document.getElementById("exam-area").style.display = "block";
@@ -232,13 +285,17 @@
     function showQuestion() {
       const q = questions[currentQuestion];
       document.getElementById("question-text").textContent = q.question;
+
+      // Shuffle answers and track new correct answer position
       const optionsWithIndexes = q.options.map((opt, idx) => ({ opt, idx }));
       shuffle(optionsWithIndexes);
+
       questions[currentQuestion].shuffledOptions = optionsWithIndexes;
       questions[currentQuestion].shuffledAnswer = optionsWithIndexes.findIndex(o => o.idx === q.answer);
 
       const optionsList = document.getElementById("options-list");
       optionsList.innerHTML = "";
+
       optionsWithIndexes.forEach(({ opt }, index) => {
         const li = document.createElement("li");
         const btn = document.createElement("button");
@@ -258,18 +315,35 @@
       const q = questions[currentQuestion];
       const correctIndex = q.shuffledAnswer;
       const optionButtons = document.querySelectorAll(".options button");
+
       optionButtons.forEach((btn, idx) => {
         btn.disabled = true;
         if (idx === correctIndex) btn.classList.add("correct");
         if (idx === selectedIndex && selectedIndex !== correctIndex) btn.classList.add("incorrect");
       });
+
+      // Track question performance (by unique question id)
+      let hist = questionHistory[q.id] || { correctStreak: 0, excludeUntil: null };
       if (selectedIndex === correctIndex) {
         score++;
+        hist.correctStreak = (hist.correctStreak || 0) + 1;
         document.getElementById("feedback").textContent = "✅ Correct!";
       } else {
+        hist.correctStreak = 0;
         document.getElementById("feedback").textContent =
           `❌ Incorrect! Correct answer: ${q.shuffledOptions[correctIndex].opt}`;
       }
+
+      // Exclude for 7 days if correctStreak hits 3
+      if (hist.correctStreak >= 3) {
+        hist.excludeUntil = Date.now() + (7 * 24 * 60 * 60 * 1000);
+        hist.correctStreak = 0;
+        document.getElementById("feedback").textContent +=
+          " This question will be excluded from sessions for 7 days!";
+      }
+      questionHistory[q.id] = hist;
+      setQuestionHistory(questionHistory);
+
       document.getElementById("next-btn").style.display = "inline-block";
       document.getElementById("next-btn").textContent =
         currentQuestion === questions.length - 1 ? "Finish Exam" : "Next Question";
