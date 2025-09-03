@@ -2384,7 +2384,7 @@
       "Phase H: Architecture Change Management",
       "Phase B: Business Architecture"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
     "id": 218,
@@ -2750,4 +2750,5 @@
     "answer": 0
   }
 ]
+
 
