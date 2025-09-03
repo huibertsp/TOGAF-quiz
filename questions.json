@@ -1702,7 +1702,7 @@
       "Phase G: Implementation Governance",
       "Phase H: Architecture Change Management"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
     "id": 156,
@@ -2750,5 +2750,6 @@
     "answer": 0
   }
 ]
+
 
 
