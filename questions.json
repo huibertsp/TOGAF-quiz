@@ -2318,7 +2318,7 @@
       "Phase B: Business Architecture",
       "Phase F: Migration Planning"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
     "id": 212,
@@ -2750,6 +2750,7 @@
     "answer": 0
   }
 ]
+
 
 
 
