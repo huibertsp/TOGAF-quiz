@@ -158,7 +158,7 @@
     "question": "Which ADM phase conducts Gap Analysis between Baseline and Target states?",
     "options": [
       "Phase B: Business Architecture",
-      "Phase D: Technology Architecture",
+      "Phases B, C, and D",
       "Phase G: Implementation Governance",
       "Phase E: Opportunities and Solutions"
     ],
@@ -2750,6 +2750,7 @@
     "answer": 0
   }
 ]
+
 
 
 
