@@ -2531,91 +2531,91 @@
   },
   {
     "id": 231,
-    "question": "Which ADM phase maintains ongoing governance log for architecture?",
+    "question": "Which of the following is NOT a phase in the TOGAF ADM?",
     "options": [
-      "Phase H: Architecture Change Management",
-      "Phase G: Implementation Governance",
-      "Phase B: Business Architecture",
-      "Phase D: Technology Architecture"
+      "Architecture Vision",
+      "Requirements Management",
+      "Architecture Change Management",
+      "Strategy Implementation"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "id": 232,
-    "question": "Which TOGAF repository provides compliance records and metrics?",
+    "question": "What does the Enterprise Continuum provide in TOGAF?",
     "options": [
-      "Governance Repository",
-      "Architecture Repository",
-      "Standards Information Base",
-      "Enterprise Continuum"
+      "Lifecycle management of architecture artifacts",
+      "A framework for reusing architecture assets",
+      "Governance process definitions",
+      "Regulatory compliance guidelines"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
     "id": 233,
-    "question": "Which ADM phase ensures architecture vision is still aligned with evolving strategies?",
+    "question": "Which of the following is NOT a phase in the TOGAF ADM?",
     "options": [
-      "Phase H: Architecture Change Management",
-      "Phase A: Architecture Vision",
-      "Phase G: Implementation Governance",
-      "Phase F: Migration Planning"
+      "Architecture Vision",
+      "Requirements Management",
+      "Architecture Change Management",
+      "Strategy Implementation"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "id": 234,
-    "question": "Which TOGAF deliverable provides planned increments for realization?",
+    "question": "What does the Enterprise Continuum provide in TOGAF?",
     "options": [
-      "Architecture Roadmap",
-      "Implementation Governance Model",
-      "Architecture Contract",
-      "Architecture Requirements"
+      "Lifecycle management of architecture artifacts",
+      "A framework for reusing architecture assets",
+      "Governance process definitions",
+      "Regulatory compliance guidelines"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
     "id": 235,
-    "question": "Which ADM phase includes capturing post-implementation lessons learned?",
+    "question": "Which of the following is NOT a phase in the TOGAF ADM?",
     "options": [
-      "Phase H: Architecture Change Management",
-      "Phase F: Migration Planning",
-      "Phase B: Business Architecture",
-      "Phase G: Implementation Governance"
+      "Architecture Vision",
+      "Requirements Management",
+      "Architecture Change Management",
+      "Strategy Implementation"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "id": 236,
-    "question": "Which TOGAF concept indicates iterative cycles within ADM to support agility?",
+    "question": "What does the Enterprise Continuum provide in TOGAF?",
     "options": [
-      "Iteration and Levels",
-      "Architecture Continuum",
-      "Stakeholder Mapping",
-      "Content Framework"
+      "Lifecycle management of architecture artifacts",
+      "A framework for reusing architecture assets",
+      "Governance process definitions",
+      "Regulatory compliance guidelines"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
     "id": 237,
-    "question": "Which ADM phase ensures solutions meet stakeholder value expectations?",
+    "question": "Which of the following is NOT a phase in the TOGAF ADM?",
     "options": [
-      "Phase H: Architecture Change Management",
-      "Phase F: Migration Planning",
-      "Phase G: Implementation Governance",
-      "Phase B: Business Architecture"
+      "Architecture Vision",
+      "Requirements Management",
+      "Architecture Change Management",
+      "Strategy Implementation"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "id": 238,
-    "question": "Which catalog relates logical data models to physical databases?",
+    "question": "What does the Enterprise Continuum provide in TOGAF?",
     "options": [
-      "Data Dissemination Diagram",
-      "Data Entity Catalog",
-      "Database Mapping Matrix",
-      "Technology Standards Catalog"
+      "Lifecycle management of architecture artifacts",
+      "A framework for reusing architecture assets",
+      "Governance process definitions",
+      "Regulatory compliance guidelines"
     ],
-    "answer": 2
+    "answer": 1
   },
   {
     "id": 239,
@@ -2750,6 +2750,7 @@
     "answer": 0
   }
 ]
+
 
 
 
