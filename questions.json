@@ -2201,333 +2201,333 @@
   },
   {
     "id": 201,
-    "question": "Which ADM phase enables the assessment of readiness for transformation programs?",
+    "question": "An organization comprises multiple business units with distinct goals but shares a common IT infrastructure. Which definition best describes such an entity?",
     "options": [
-      "Phase A: Architecture Vision",
-      "Phase E: Opportunities and Solutions",
-      "Phase F: Migration Planning",
-      "Preliminary Phase"
+      "A capability",
+      "A domain",
+      "A segment",
+      "An enterprise"
     ],
-    "answer": 1
+    "answer": 2
   },
   {
     "id": 202,
-    "question": "Which TOGAF catalog aligns IT services to business objectives?",
+    "question": "Which scenario best describes the purpose of Enterprise Architecture?",
     "options": [
-      "Technology Services Catalog",
-      "Business Services Catalog",
-      "Application Services Map",
-      "Requirements Catalog"
+      "Ensuring only IT departments follow business goals",
+      "Structuring IT systems to align with business strategies",
+      "Simplifying technology for better user experience",
+      "Building independent IT solutions unrelated to strategy"
     ],
     "answer": 0
   },
   {
     "id": 203,
-    "question": "Which ADM phase ensures that business drivers are recorded and stakeholder buy-in is achieved?",
+    "question": "Which benefit of Enterprise Architecture improves decision-making and communication across departments?",
     "options": [
-      "Phase A: Architecture Vision",
-      "Phase B: Business Architecture",
-      "Phase D: Technology Architecture",
-      "Phase H: Architecture Change Management"
+      "Increased adaptability",
+      "Optimized resource usage",
+      "Alignment of business and IT",
+      "Enhanced communication"
     ],
-    "answer": 0
+    "answer": 2
   },
   {
     "id": 204,
-    "question": "Which TOGAF repository facilitates sharing architectures across multiple domains?",
+    "question": "Why is the TOGAF Standard adaptable across diverse industries?",
     "options": [
-      "Architecture Landscape",
-      "Reference Library",
-      "Solutions Continuum",
-      "Standards Information Base"
+      "It provides predefined solutions",
+      "It focuses solely on technical concerns",
+      "It is flexible and supports standardization",
+      "It offers rigid frameworks"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
     "id": 205,
-    "question": "Which ADM phase establishes the Architecture Capability and governance structures?",
+    "question": "What domain focuses on managing the interactions of application systems?",
     "options": [
-      "Preliminary Phase",
-      "Phase A: Architecture Vision",
-      "Phase F: Migration Planning",
-      "Phase E: Opportunities and Solutions"
+      "Business Architecture",
+      "Technology Architecture",
+      "Data Architecture",
+      "Application Architecture"
     ],
-    "answer": 0
+    "answer": 2
   },
-  {
+{
     "id": 206,
-    "question": "Which TOGAF deliverable defines the baseline and target descriptions of all architectures?",
+    "question": "How does architecture abstraction simplify enterprise complexity?",
     "options": [
-      "Architecture Definition Document",
-      "Architecture Vision",
-      "Architecture Contract",
-      "Migration Plan"
+      "By standardizing processes",
+      "By focusing solely on IT systems",
+      "By using high-level models",
+      "By ignoring technical details"
     ],
-    "answer": 0
+    "answer": 2
   },
   {
     "id": 207,
-    "question": "Which ADM phase categorizes identified risks and mitigation actions?",
+    "question": "What tool organizes and stores foundational and industry-specific solutions?",
     "options": [
-      "Phase E: Opportunities and Solutions",
-      "Phase B: Business Architecture",
-      "Phase A: Architecture Vision",
-      "Phase H: Architecture Change Management"
+      "Metamodel",
+      "Architecture Repository",
+      "Content Framework",
+      "Enterprise Continuum"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "id": 208,
-    "question": "Which TOGAF component enables the consistent use of building blocks in ADM?",
+    "question": "Which TOGAF tool is a central storage for templates, frameworks, and standards?",
     "options": [
-      "Content Framework",
-      "Reference Models",
       "Enterprise Continuum",
-      "Architecture Vision"
+      "Architecture Capability",
+      "Architecture Repository",
+      "Risk Management Framework"
     ],
     "answer": 2
   },
   {
     "id": 209,
-    "question": "Which ADM phase provides strategic guidance on sequencing initiatives?",
+    "question": "What does the TOGAF Content Framework provide?",
     "options": [
-      "Phase F: Migration Planning",
-      "Phase G: Implementation Governance",
-      "Phase A: Architecture Vision",
-      "Phase H: Architecture Change Management"
+      "A library of reusable components",
+      "A structure for organizing work products",
+      "A guide for compliance processes",
+      "A database of technology solutions"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
     "id": 210,
-    "question": "Which TOGAF deliverable sets constraints for project teams to follow?",
+    "question": "How can an organization strengthen its Architecture Capability?",
     "options": [
-      "Architecture Contract",
-      "Architecture Vision",
-      "Architecture Roadmap",
-      "Statement of Architecture Work"
+      "By prioritizing data over applications",
+      "By focusing only on technical tools",
+      "By creating independent IT solutions",
+      "By combining people, processes, and tools"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "id": 211,
-    "question": "Which ADM phase ensures monitoring of architecture compliance and benefits realization?",
+    "question": "What is the goal of risk management in TOGAF?",
     "options": [
-      "Phase H: Architecture Change Management",
-      "Phase G: Implementation Governance",
-      "Phase B: Business Architecture",
-      "Phase F: Migration Planning"
+      "To focus solely on financial risks",
+      "To mitigate risks and minimize their impact",
+      "To eliminate all risks completely",
+      "To prioritize business concerns over technical risks"
     ],
     "answer": 1
   },
   {
     "id": 212,
-    "question": "Which TOGAF concept integrates architecture with portfolio and project management?",
+    "question": "What does gap analysis help identify?",
     "options": [
-      "Architecture Governance",
-      "Portfolio Alignment",
-      "Implementation Governance Model",
-      "Enterprise Continuum"
+      "Gaps between current and desired architecture states",
+      "Irrelevant processes in the business",
+      "Technology overlaps",
+      "Non-critical tasks in the architecture"
     ],
-    "answer": 2
+    "answer": 0
   },
   {
     "id": 213,
-    "question": "Which ADM phase ensures architecture migrations are aligned with value delivery?",
+    "question": "Which architecture domain focuses on the behavior and interaction of applications?",
     "options": [
-      "Phase F: Migration Planning",
-      "Phase H: Architecture Change Management",
-      "Phase G: Implementation Governance",
-      "Phase C: Information Systems Architecture"
-    ],
-    "answer": 2
-  },
-  {
-    "id": 214,
-    "question": "Which TOGAF catalog tracks architecture viewpoints used to address concerns?",
-    "options": [
-      "Views Viewpoint Catalog",
-      "Requirements Catalog",
-      "Application Portfolio",
-      "Technology Portfolio"
-    ],
-    "answer": 0
-  },
-  {
-    "id": 215,
-    "question": "Which ADM phase ensures architecture principles remain consistent with business strategy?",
-    "options": [
-      "Phase H: Architecture Change Management",
-      "Phase B: Business Architecture",
-      "Phase F: Migration Planning",
-      "Phase E: Opportunities and Solutions"
-    ],
-    "answer": 0
-  },
-  {
-    "id": 216,
-    "question": "Which TOGAF artifact documents current and target states of enterprise capabilities?",
-    "options": [
-      "Architecture Roadmap",
-      "Architecture Definition Document",
-      "Architecture Vision",
-      "Implementation Plan"
+      "Technology Architecture",
+      "Application Architecture",
+      "Business Architecture",
+      "Data Architecture"
     ],
     "answer": 1
   },
   {
-    "id": 217,
-    "question": "Which ADM phase authorizes initiation of projects from migration planning?",
+    "id": 214,
+    "question": "What does the Architecture Landscape provide?",
     "options": [
-      "Phase F: Migration Planning",
-      "Phase G: Implementation Governance",
-      "Phase H: Architecture Change Management",
-      "Phase B: Business Architecture"
+      "A high-level abstract model",
+      "A tool for aligning architecture with only IT goals",
+      "A repository for technology components",
+      "Different views at strategic, segment, and capability levels"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 215,
+    "question": "Which term describes tasks aligned with project outcomes?",
+    "options": [
+      "Artifact",
+      "Work Package",
+      "Gap Analysis",
+      "Capability Architecture"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 216,
+    "question": "An organization needs to ensure its IT infrastructure supports its strategic goals. Which of the following approaches would best help achieve this?",
+    "options": [
+      "Establishing Enterprise Architecture to align IT with business strategy",
+      "Building ad-hoc solutions based on immediate needs",
+      "Prioritizing technology over business alignment",
+      "Establishing Enterprise Architecture to align IT with business strategy"
     ],
     "answer": 0
   },
   {
-    "id": 218,
-    "question": "Which TOGAF repository contains reusable building blocks for solutions?",
+    "id": 217,
+    "question": "Which benefit of Enterprise Architecture ensures that a business can adapt quickly to changes in the market?",
     "options": [
-      "Solutions Continuum",
-      "Architecture Landscape",
-      "Reference Library",
-      "Architecture Governance"
+      "Improved decision-making",
+      "Increased agility and adaptability",
+      "Optimized resource usage",
+      "Enhanced communication"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 218,
+    "question": "Which aspect of the TOGAF framework allows for its application across diverse business needs?",
+    "options": [
+      "Comprehensive and flexible framework",
+      "Predefined solutions for all industries",
+      "Rigid structure for all enterprises",
+      "Exclusive focus on technology domains"
     ],
     "answer": 0
   },
   {
     "id": 219,
-    "question": "Which ADM phase validates that business requirements have been addressed?",
+    "question": "Question 19: What domain of Enterprise Architecture focuses on managing and organizing an organization's data assets?",
     "options": [
-      "Phase B: Business Architecture",
-      "Phase G: Implementation Governance",
-      "Phase D: Technology Architecture",
-      "Phase F: Migration Planning"
+      "Business Architecture",
+      "Technology Architecture",
+      "Application Architecture",
+      "Data Architecture"
     ],
-    "answer": 1
+    "answer": 3
   },
   {
     "id": 220,
-    "question": "Which TOGAF component represents generic to specific architectures?",
+    "question": "How does architecture abstraction help simplify complex systems?",
     "options": [
-      "Architecture Continuum",
-      "Enterprise Continuum",
-      "Reference Library",
-      "Standards Information Base"
+      "By removing all technical constraints from the model",
+      "By separating IT from business concerns",
+      "By creating high-level models that represent detailed systems",
+      "By omitting details and focusing on generic solutions"
     ],
-    "answer": 1
+    "answer": 2
   },
   {
     "id": 221,
-    "question": "Which ADM phase maintains oversight over implemented solutions?",
+    "question": "Which mechanism in TOGAF is used to organize and store architectural artifacts?",
     "options": [
-      "Phase H: Architecture Change Management",
-      "Phase F: Migration Planning",
-      "Phase G: Implementation Governance",
-      "Phase C: Information Systems Architecture"
+      "Enterprise Continuum",
+      "Architecture Framework",
+      "Architecture Repository",
+      "Architecture Metamodel"
     ],
-    "answer": 0
+    "answer": 2
   },
   {
     "id": 222,
-    "question": "Which TOGAF principle emphasizes flexibility for future change?",
+    "question": "What is the primary function of an Architecture Repository in TOGAF?",
     "options": [
-      "Adaptability",
-      "Reuse",
-      "Technology Neutrality",
-      "Separation of Concerns"
+      "To create a separate repository for each architecture domain",
+      "To store only technology-related artifacts",
+      "To ensure strict governance without reuse",
+      "To enable reuse and support governance through centralized storage"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "id": 223,
-    "question": "Which ADM phase documents residual risks after migration?",
+    "question": "Which of the following best describes the TOGAF Content Framework?",
     "options": [
-      "Phase F: Migration Planning",
-      "Phase H: Architecture Change Management",
-      "Phase B: Business Architecture",
-      "Phase E: Opportunities and Solutions"
+      "A mechanism to prioritize technology decisions over business goals",
+      "A template for creating technical systems",
+      "A prebuilt repository for organizational data",
+      "A structured approach to organize work products and describe relationships within architecture"
     ],
-    "answer": 1
+    "answer": 3
   },
   {
     "id": 224,
-    "question": "Which TOGAF repository supports architecture knowledge capture and reuse?",
+    "question": "How does Gap Analysis contribute to architecture development?",
     "options": [
-      "Architecture Repository",
-      "Enterprise Continuum",
-      "Standards Information Base",
-      "Architecture Contract"
+      "By focusing exclusively on technology gaps",
+      "By determining the future state without considering the current state",
+      "By highlighting differences between the current state and desired future state",
+      "By identifying resources available for reuse"
     ],
-    "answer": 0
+    "answer": 2
   },
   {
     "id": 225,
-    "question": "Which ADM phase creates Architecture Roadmap and Migration Plan?",
+    "question": "What is the primary focus of Technology Architecture in TOGAF?",
     "options": [
-      "Phase F: Migration Planning",
-      "Phase C: Information Systems Architecture",
-      "Phase H: Architecture Change Management",
-      "Phase B: Business Architecture"
+      "Organizational processes and roles",
+      "Data management and resources",
+      "Interactions between various application systems",
+      "Logical and physical technology components supporting applications and data"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "id": 226,
-    "question": "Which TOGAF artifact classifies viewpoints into catalogs, matrices, and diagrams?",
+    "question": "A company struggles to align IT systems with its rapid business expansions. Which framework component should be used to ensure scalability and adaptability?",
     "options": [
-      "Content Framework",
-      "Architecture Continuum",
-      "Enterprise Continuum",
-      "Governance Framework"
+      "Enterprise Architecture",
+      "Application Architecture",
+      "Data Architecture",
+      "Business Architecture"
     ],
     "answer": 0
   },
   {
     "id": 227,
-    "question": "Which ADM phase governs contracts through Architecture Compliance Review?",
+    "question": "An organization needs to classify and reuse architectural artifacts effectively. Which TOGAF concept would be most applicable?",
     "options": [
-      "Phase G: Implementation Governance",
-      "Phase F: Migration Planning",
-      "Phase H: Architecture Change Management",
-      "Phase C: Information Systems Architecture"
+      "Gap Analysis",
+      "Enterprise Continuum",
+      "Capability Architecture",
+      "Architecture Repository"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
     "id": 228,
-    "question": "Which TOGAF deliverable establishes formal agreement between architects and implementers?",
+    "question": "A project requires ensuring seamless communication between various software applications. What domain of TOGAF should be prioritized?",
     "options": [
-      "Architecture Contract",
-      "Architecture Vision",
-      "Architecture Definition Document",
-      "Statement of Architecture Work"
+      "Business Architecture",
+      "Data Architecture",
+      "Application Architecture",
+      "Technology Architecture"
     ],
-    "answer": 0
+    "answer": 2
   },
   {
     "id": 229,
-    "question": "Which ADM phase documents capacity planning for migration?",
+    "question": "A business unit requests a model to demonstrate its processes, roles, and organizational structure. Which architecture domain is most relevant?",
     "options": [
-      "Phase F: Migration Planning",
-      "Phase B: Business Architecture",
-      "Phase G: Implementation Governance",
-      "Phase H: Architecture Change Management"
+      "Technology Architecture",
+      "Data Architecture",
+      "Business Architecture",
+      "Segment Architecture"
     ],
-    "answer": 0
+    "answer": 2
   },
   {
     "id": 230,
-    "question": "Which catalog maps applications to organizational units?",
+    "question": "During a compliance review, an architect identifies several gaps in adherence to defined standards. What process should they follow to address these gaps?",
     "options": [
-      "Application Organization Matrix",
-      "Technology Portfolio",
-      "Data Entity Catalog",
-      "Requirements Catalog"
+      "Ignore the gaps as they are non-critical",
+      "Recommend eliminating components that deviate from standards",
+      "Define new principles to override existing standards",
+      "Conduct an Architecture Compliance review and propose mitigation actions"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "id": 231,
@@ -2750,6 +2750,7 @@
     "answer": 0
   }
 ]
+
 
 
 
