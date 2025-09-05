@@ -2091,102 +2091,102 @@
   },
   {
     "id": 191,
-    "question": "Which ADM phase manages the integration of incremental transitions?",
+    "question": "Consider the following statement: 'Separate projects may operate their own ADM cycles concurrently, with relationships between the different projects' What does it illustrate?",
     "options": [
-      "Phase F: Migration Planning",
-      "Phase G: Implementation Governance",
-      "Phase E: Opportunities and Solutions",
-      "Phase H: Architecture Change Management"
+      "Implementation governance",
+      "Enterprise Architecture",
+      "Iteration",
+      "Requirements management"
     ],
-    "answer": 0
+    "answer": 2
   },
   {
     "id": 192,
-    "question": "Which TOGAF catalog ensures alignment of technology with organizational capability?",
+    "question": "What are the four dimensions used to scope an architecture?",
     "options": [
-      "Technology Portfolio Catalog",
-      "Application Portfolio Catalog",
-      "Business Service Map",
-      "Requirements Catalog"
+      "Business Data Application Technology",
+      "Strategy Segment Capability Budget",
+      "Breadth Depth Time Period Architecture Domains",
+      "Strategy Portfolio Project Solution Delivery"
     ],
-    "answer": 0
+    "answer": 2
   },
   {
     "id": 193,
-    "question": "Which ADM phase includes aligning systems development projects with architecture?",
+    "question": "What is the purpose of the Preliminary Phase?",
     "options": [
-      "Phase G: Implementation Governance",
-      "Phase H: Architecture Change Management",
-      "Phase C: Information Systems Architecture",
-      "Phase F: Migration Planning"
+      "Developing an Enterprise Architecture Capability.",
+      "Describing the target architecture.",
+      "Defining the Enterprise Strategy.",
+      "Identifying the stakeholders and their requirements."
     ],
     "answer": 0
   },
   {
     "id": 194,
-    "question": "Which TOGAF concept enables tailoring ADM to organizational context?",
+    "question": "Complete the sentence. Actions arising from the Business Transformation Readiness Assessment technique should be incorporated in the ________.",
     "options": [
-      "Architecture Governance",
-      "Customization of ADM",
-      "Content Framework",
-      "Enterprise Continuum"
+      "Architecture Requirements Specification",
+      "Architecture Roadmap",
+      "Implementation Governance Model",
+      "Implementation and Migration Plan"
     ],
-    "answer": 1
+    "answer": 3
   },
   {
     "id": 195,
-    "question": "Which ADM phase measures realized outcomes of architecture benefits?",
+    "question": "Complete the sentence. The architecture domains that are considered by the TOGAF standard as subsets of an overall enterprise architecture are Business, Technology, ________.",
     "options": [
-      "Phase H: Architecture Change Management",
-      "Phase G: Implementation Governance",
-      "Phase F: Migration Planning",
-      "Phase B: Business Architecture"
+      "Logical and Physical",
+      "Information and Data",
+      "Capability and Segment",
+      "Application and Data"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "id": 196,
-    "question": "Which TOGAF repository provides reusable patterns and reference models?",
+    "question": "Which one of the following classes of information within the Architecture Repository would typically contain a list of the applications in use within the enterprise?",
     "options": [
       "Reference Library",
-      "Standards Information Base",
+      "Architecture Metamodel",
       "Architecture Landscape",
-      "Requirements Repository"
+      "Governance Log"
     ],
-    "answer": 0
+    "answer": 2
   },
   {
     "id": 197,
-    "question": "Which ADM phase defines constraints coming from business and technology context?",
+    "question": "Which section of the TOGAF template for Architecture Principles should highlight the requirements for carrying out the principle?",
     "options": [
-      "Phase A: Architecture Vision",
-      "Phase B: Business Architecture",
-      "Preliminary Phase",
-      "Phase G: Implementation Governance"
+      "Rationale",
+      "Name",
+      "Statement",
+      "Implications"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "id": 198,
-    "question": "Which TOGAF template records stakeholder interests and priorities?",
+    "question": "What does the TOGAF ADM recommend for use in developing an Architecture Vision document?",
     "options": [
-      "Stakeholder Map Matrix",
-      "Requirements Catalog",
-      "Architecture Vision",
-      "Roadmap"
+      "Requirements Management",
+      "Architecture Principles",
+      "Gap Analysis",
+      "Business Scenarios"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "id": 199,
-    "question": "Which ADM phase determines incremental deliverables for sequencing?",
+    "question": "Which phase of the ADM has the purpose to develop an Enterprise Architecture Capability?",
     "options": [
-      "Phase F: Migration Planning",
-      "Phase D: Technology Architecture",
-      "Phase C: Information Systems Architecture",
-      "Phase B: Business Architecture"
+      "Phase G",
+      "Preliminary Phase",
+      "Phase A",
+      "Phase B"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "id": 200,
@@ -2750,6 +2750,7 @@
     "answer": 0
   }
 ]
+
 
 
 
