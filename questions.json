@@ -2553,203 +2553,204 @@
   },
   {
     "id": 233,
-    "question": "Which of the following is NOT a phase in the TOGAF ADM?",
+    "question": "Which statement best describes iteration and the ADM?",
     "options": [
-      "Architecture Vision",
-      "Requirements Management",
-      "Architecture Change Management",
-      "Strategy Implementation"
+      "The ADM is iterative within the first cycle and then between phases",
+      "The level of detail is defined once and applies to all iterations",
+      "The ADM is sequential Iteration is applied within phases",
+      "The ADM is iterative, over the whole process between phases and within phases"
     ],
     "answer": 3
   },
   {
     "id": 234,
-    "question": "What does the Enterprise Continuum provide in TOGAF?",
+    "question": "Which section of the TOGAF template for Architecture Principles should describe the relationship to other principles?",
     "options": [
-      "Lifecycle management of architecture artifacts",
-      "A framework for reusing architecture assets",
-      "Governance process definitions",
-      "Regulatory compliance guidelines"
+      "Name",
+      "Rationale",
+      "Statement",
+      "Implications"
     ],
     "answer": 1
   },
   {
     "id": 235,
-    "question": "Which of the following is NOT a phase in the TOGAF ADM?",
+    "question": "Which of the following supports the need to govern Enterprise Architecture?",
     "options": [
-      "Architecture Vision",
-      "Requirements Management",
-      "Architecture Change Management",
-      "Strategy Implementation"
+      "The Architecture Project mandates the governance of the target architecture",
+      "The TOGAF standard cannot be used without executive governance",
+      "Best practice governance enables the organization to control value realization",
+      "The Stakeholders preferences may go beyond the architecture project scope and needs control"
     ],
-    "answer": 3
+    "answer": 2
   },
   {
     "id": 236,
-    "question": "What does the Enterprise Continuum provide in TOGAF?",
+    "question": "Complete the sentence The Architecture Landscape is divided into levels known as ________________.",
     "options": [
-      "Lifecycle management of architecture artifacts",
-      "A framework for reusing architecture assets",
-      "Governance process definitions",
-      "Regulatory compliance guidelines"
+      "Gaps Plateaus, and Target Architectures",
+      "Baseline. Transition and To Be Architectures",
+      "Segment Strategic and Capability Architectures",
+      "Transitional Complete and incremental Architectures"
     ],
-    "answer": 1
+    "answer": 2
   },
   {
     "id": 237,
-    "question": "Which of the following is NOT a phase in the TOGAF ADM?",
+    "question": "Complete the sentence. A business scenario describes ________________.",
     "options": [
-      "Architecture Vision",
-      "Requirements Management",
-      "Architecture Change Management",
-      "Strategy Implementation"
+      "shortfalls between the Baseline and Target Architectures",
+      "business domain gaps, such as cross-training requirements",
+      "general rules and guidelines for the architecture being developed",
+      "business and technology environment in which those problems occur"
     ],
     "answer": 3
   },
   {
     "id": 238,
-    "question": "What does the Enterprise Continuum provide in TOGAF?",
+    "question": "Complete the sentence. When considering agile development, Architecture to Support Project will identify what products the Enterprise needs, the boundary of the products, and what constraints a product owner has; this defines the Enterprise's _______________",
     "options": [
-      "Lifecycle management of architecture artifacts",
-      "A framework for reusing architecture assets",
-      "Governance process definitions",
-      "Regulatory compliance guidelines"
+      "operations",
+      "backlog",
+      "lifecycle economics",
+      "workflow management"
     ],
-    "answer": 1
+    "answer": 3
   },
   {
     "id": 239,
-    "question": "Which ADM phase confirms implemented projects align with migration plan?",
+    "question": "What information does the Architecture Requirements Repository within the Architecture Repository hold?",
     "options": [
-      "Phase G: Implementation Governance",
-      "Phase F: Migration Planning",
-      "Phase H: Architecture Change Management",
-      "Phase C: Information Systems Architecture"
+      "A set of guidelines, templates, and patterns to support the development of architecture requirements",
+      "The parameters and structures to support governance of architecture requirements",
+      "A log of the governance activity related to architecture requirements",
+      "The architecture requirements which have been agreed with the Architecture Board"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 240,
+    "question": "Complete the sentence. The TOGAF standard covers the development of four architecture domains, Application, Business, Data and ___________.",
+    "options": [
+      "Technology",
+      "Transition",
+      "Segment",
+      "Capability"
     ],
     "answer": 0
   },
   {
-    "id": 240,
-    "question": "Which TOGAF component distinguishes Foundation and Common Systems architectures?",
+    "id": 241,
+    "question": "Complete the sentence. The purpose of Enterprise Architecture is to ___________.",
     "options": [
-      "Architecture Continuum",
-      "Enterprise Continuum",
-      "Standards Information Base",
-      "Architecture Repository"
+      "take major improvement decisions.",
+      "guide effective change.",
+      "govern the stakeholders.",
+      "control the bigger changes."
     ],
     "answer": 1
   },
   {
-    "id": 241,
-    "question": "Which ADM phase ensures effective acceptance testing and deployment?",
-    "options": [
-      "Phase G: Implementation Governance",
-      "Phase F: Migration Planning",
-      "Phase H: Architecture Change Management",
-      "Phase E: Opportunities and Solutions"
-    ],
-    "answer": 0
-  },
-  {
     "id": 242,
-    "question": "Which TOGAF catalog describes organization units, roles, and responsibilities?",
+    "question": "Complete the following sentence. In the ADM, documents which are under development and have not undergone any formal review and approval process are ___________",
     "options": [
-      "Organization/Actor Catalog",
-      "Requirements Catalog",
-      "Business Service Catalog",
-      "Application Portfolio"
+      "in between phases",
+      "known as 'Version 0.1'",
+      "invalid",
+      "called 'draft'"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "id": 243,
-    "question": "Which ADM phase formally closes the architecture engagement?",
+    "question": "What ensures that a project transitioning into implementation also smoothly transitions into appropriate Architecture Governance?",
     "options": [
-      "Phase H: Architecture Change Management",
-      "Phase G: Implementation Governance",
-      "Phase F: Migration Planning",
-      "Phase C: Information Systems Architecture"
+      "Implementation Strategy",
+      "Implementation Governance Model",
+      "Transition Plan",
+      "Migration Plan"
     ],
     "answer": 1
   },
   {
     "id": 244,
-    "question": "Which TOGAF principle ensures cost-effective architectures through reuse?",
+    "question": "Which of the following best describes the purpose of the Architecture Roadmap?",
     "options": [
-      "Reuse Before Buy Before Build",
-      "Value Realization",
-      "Technology Agnostic",
-      "Separation of Concerns"
+      "It provides for effective communication of the end architecture project to the stakeholders",
+      "It is sent from the sponsor and triggers the start of an architecture development cycle",
+      "It forms the basis of a contractual agreement between the sponsor and the architecture organization",
+      "It lists work packages on a timeline showing progress towards the Target Architecture"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "id": 245,
-    "question": "Which ADM phase introduces architecture change requests as input for cycles?",
+    "question": "Which of the following best describes a purpose of the Gap Analysis technique?",
     "options": [
-      "Phase H: Architecture Change Management",
-      "Phase E: Opportunities and Solutions",
-      "Phase F: Migration Planning",
-      "Phase G: Implementation Governance"
+      "To validate non-functional requirements",
+      "To establish quality metrics for the architecture",
+      "To determine service levels for the architecture",
+      "To identify missing functions"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "id": 246,
-    "question": "Which TOGAF deliverable provides an agreement of roles, responsibilities, and deliverables?",
+    "question": "What is used to structure architectural information in an orderly way so that it can be processed to meet stakeholder needs?",
     "options": [
-      "Statement of Architecture Work",
-      "Architecture Contract",
-      "Implementation Governance",
-      "Architecture Vision"
+      "A Stakeholder Map",
+      "An Architecture Framework",
+      "Content Metamodel",
+      "An EA Library"
     ],
     "answer": 1
   },
   {
     "id": 247,
-    "question": "Which ADM phase ensures program and project initiation follows migration sequencing?",
+    "question": "Complete the sentence A set of architecture principles that cover every situation perceived meets the recommended criteria of______________.",
     "options": [
-      "Phase F: Migration Planning",
-      "Phase G: Implementation Governance",
-      "Phase A: Architecture Vision",
-      "Phase B: Business Architecture"
+      "consistency",
+      "robustness",
+      "stability",
+      "completeness"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "id": 248,
-    "question": "Which TOGAF repository allows grouping of deliverables into formal architecture packages?",
+    "question": "Which of the following best describes the class of information known as the Reference Library within the Architecture Repository?",
     "options": [
-      "Architecture Repository",
-      "Enterprise Continuum",
-      "Reference Library",
-      "Architecture Landscape"
+      "Guidelines and templates used to create new architectures",
+      "Specifications to which architectures must conform",
+      "A record of the governance activity across the enterprise",
+      "Processes to support governance of the Architecture Repository"
     ],
     "answer": 0
   },
   {
     "id": 249,
-    "question": "Which ADM phase initiates governance compliance reviews of implemented solutions?",
+    "question": "Complete the sentence The purpose of Enterprise Architecture is to______________.",
     "options": [
-      "Phase G: Implementation Governance",
-      "Phase H: Architecture Change Management",
-      "Phase D: Technology Architecture",
-      "Phase B: Business Architecture"
+      "take major improvement decisions",
+      "control the bigger changes",
+      "guide effective change",
+      "govern the stakeholders"
     ],
-    "answer": 0
+    "answer": 2
   },
   {
     "id": 250,
-    "question": "Which TOGAF artifact provides a time-sequenced implementation schedule?",
+    "question": "Which of the following is the ability to develop use and sustain the architecture of a particular enterprise using architecture to govern change?",
     "options": [
-      "Migration Roadmap",
-      "Standards Information Base",
-      "Architecture Requirements Specification",
-      "Viewpoint Model"
+      "An EA Capability",
+      "An EA repository",
+      "An EA framework",
+      "An Enterprise Architecture"
     ],
     "answer": 0
   }
 ]
+
 
 
 
