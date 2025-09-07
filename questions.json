@@ -1915,168 +1915,168 @@
   },
   {
     "id": 175,
-    "question": "Which ADM phase produces detailed descriptions of services across architecture domains?",
+    "question": "In which phase of the ADM cycle do building blocks become implementation-specific?",
     "options": [
-      "Phase B, C, D",
-      "Phase E: Opportunities and Solutions",
-      "Phase F: Migration Planning",
-      "Phase A: Architecture Vision"
+      "Phase B",
+      "Phase C",
+      "Phase D",
+      "Phase E"
     ],
-    "answer": 0
+    "answer": 2
   },
   {
     "id": 176,
-    "question": "Which catalog records attributes of logical and physical technology components?",
+    "question": "What is present in all phases within the ADM and should be identified, classified and mitigated before starting a transformation effort?",
     "options": [
-      "Technology Standards Catalog",
-      "Application Portfolio Catalog",
-      "Requirements Catalog",
-      "Data Entity Catalog"
+      "Budgetary constraints",
+      "Risk",
+      "Schedule constraints",
+      "Information gaps"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
     "id": 177,
-    "question": "Which ADM phase continuously assesses realized value of implemented architecture?",
+    "question": "Consider the following statements:\n\n1. Groups of countries, governments, or governmental organizations (such as militaries) working together to create common or shareable deliverables or infrastructures\n2. Partnerships and alliances of businesses working together, such as a consortium or supply chain\n\nWhat are those examples of according to the TOGAF Standard?",
     "options": [
-      "Phase H: Architecture Change Management",
-      "Phase F: Migration Planning",
-      "Phase G: Implementation Governance",
-      "Phase C: Information Systems Architecture"
+      "A- Enterprises",
+      "B- Organizations",
+      "C- Business Units",
+      "D- Architectures Scopes"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "id": 178,
-    "question": "Which TOGAF principle recommends separation of concerns for clarity?",
+    "question": "Which of the following does the TOGAF standard describe as a package of functionality defined to meet business needs across an organization?",
     "options": [
-      "Separation of Concerns",
-      "Value Delivery",
-      "Business-Driven",
-      "Technology Neutrality"
+      "An application",
+      "A deliverable",
+      "A solution architecture",
+      "A building block"
     ],
-    "answer": 0
+    "answer": null
   },
   {
     "id": 179,
-    "question": "Which ADM phase conducts a review of architecture maturity for evolution?",
+    "question": "Which phase of the ADM has the purpose to develop an Enterprise Architecture Capability?",
     "options": [
-      "Phase H: Architecture Change Management",
-      "Phase G: Implementation Governance",
-      "Phase E: Opportunities and Solutions",
-      "Phase B: Business Architecture"
+      "Phase G",
+      "Preliminary Phase",
+      "Phase A",
+      "Phase B"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
     "id": 180,
-    "question": "Which catalog provides reference to business value streams?",
+    "question": "Which ADM phase focuses on defining the problem to be solved, identifying the stakeholders, their concerns, and requirements?",
     "options": [
-      "Value Stream Catalog",
-      "Business Service Catalog",
-      "Application Portfolio",
-      "Requirements Catalog"
+      "Phase B",
+      "Preliminary Phase",
+      "Phase G",
+      "Phase A"
     ],
-    "answer": 0
+    "answer": 3
   },
-   {
+  {
     "id": 181,
-    "question": "Which ADM phase defines architecture requirements for data and application integration?",
+    "question": "What is an objective of the ADM Preliminary Phase?",
     "options": [
-      "Phase C: Information Systems Architecture",
-      "Phase B: Business Architecture",
-      "Phase D: Technology Architecture",
-      "Phase A: Architecture Vision"
+      "To develop a vision of the business value to be delivered by the proposed enterprise architecture",
+      "To select and implement tools to support the Architecture Capability",
+      "To obtain approval for the Statement of Architecture Work",
+      "To create the initial version of the Architecture Roadmap"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
     "id": 182,
-    "question": "Which TOGAF artifact provides structured matrices to model relationships across components?",
+    "question": "Which of the following best describes the purpose of the Gap Analysis technique?",
     "options": [
-      "Matrices",
-      "Catalogs",
-      "Viewpoints",
-      "Architecture Contracts"
+      "To govern the architecture throughout its implementation process",
+      "To develop a set of general rules and guidelines for the architecture",
+      "To identify items omitted from the Target Architecture",
+      "To allocate resources for architecture projects"
     ],
-    "answer": 0
+    "answer": 2
   },
   {
     "id": 183,
-    "question": "Which ADM phase is responsible for verifying that migration activities remain aligned?",
+    "question": "Which phase of the ADM has the purpose to develop an Enterprise Architecture Capability?",
     "options": [
-      "Phase G: Implementation Governance",
-      "Phase H: Architecture Change Management",
-      "Phase E: Opportunities and Solutions",
-      "Phase B: Business Architecture"
+      "Phase G",
+      "Preliminary Phase",
+      "Phase A",
+      "Phase B"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
     "id": 184,
-    "question": "Which TOGAF component describes stakeholder concerns from different perspectives?",
+    "question": "Which ADM phase focuses on defining the problem to be solved, identifying the stakeholders, their concerns, and requirements?",
     "options": [
-      "Viewpoints",
-      "Matrices",
-      "Enterprise Continuum",
-      "Standards Information Base"
+      "Phase G",
+      "Preliminary Phase",
+      "Phase",
+      "Phase A"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "id": 185,
-    "question": "Which ADM phase governs how change requests are handled?",
+    "question": "Complete the sentence. The four purposes that typically frame the planning horizon, depth and breadth of an Architecture Project, and the contents of the EA Repository are Strategy, Portfolio,",
     "options": [
-      "Phase H: Architecture Change Management",
-      "Phase F: Migration Planning",
-      "Phase C: Information Systems Architecture",
-      "Phase E: Opportunities and Solutions"
+      "Project, and Solution Delivery.",
+      "Subordinate, and Superior Architecture.",
+      "Discreet, and Cohesive.",
+      "Segment, and End-to-end Target Architecture."
     ],
     "answer": 0
   },
   {
     "id": 186,
-    "question": "Which catalog documents the alignment of applications to technologies?",
+    "question": "Which one of the following classes of information within the Architecture Repository would typically contain a list of the applications in use within the enterprise?",
     "options": [
-      "Application/Technology Matrix",
-      "Requirements Catalog",
-      "Business Service Catalog",
-      "Data Catalog"
+      "Reference Library",
+      "Architecture Metamodel",
+      "Architecture Landscape",
+      "Governance Log"
     ],
-    "answer": 0
+    "answer": 2
   },
   {
     "id": 187,
-    "question": "Which ADM phase evaluates whether the realized architecture continues to deliver business value?",
+    "question": "The______________ ensures that a project transitioning into implementation also smoothly transitions into appropriate Architecture Governance.",
     "options": [
-      "Phase H: Architecture Change Management",
-      "Phase G: Implementation Governance",
-      "Phase E: Opportunities and Solutions",
-      "Phase B: Business Architecture"
+      "Migration Plan",
+      "Transition Plan",
+      "Implementation Governance Model",
+      "Implementation Strategy"
     ],
-    "answer": 0
+    "answer": 2
   },
   {
     "id": 188,
-    "question": "Which TOGAF principle emphasizes interoperable and standardized solutions?",
+    "question": "Which of the following best describes the need for the ADM process to be governed?",
     "options": [
-      "Interoperability",
-      "Reuse",
-      "Business Alignment",
-      "Technology Neutrality"
+      "To enable development of reference architectures",
+      "To verify that the method is being applied correctly",
+      "To enable a fast response to market changes",
+      "To permit the architecture domains to be integrated"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
     "id": 189,
-    "question": "Which ADM phase defines change governance procedures?",
+    "question": "Which one of the following classes of information within the Architecture Repository would typically contain a list of the applications in use within the enterprise?",
     "options": [
-      "Phase H: Architecture Change Management",
-      "Phase G: Implementation Governance",
-      "Phase D: Technology Architecture",
-      "Phase F: Migration Planning"
+      "Reference Library",
+      "Architecture Metamodel",
+      "Architecture Landscape",
+      "Governance Log"
     ],
-    "answer": 0
+    "answer": 2
   },
   {
     "id": 190,
@@ -2750,6 +2750,7 @@
     "answer": 0
   }
 ]
+
 
 
 
