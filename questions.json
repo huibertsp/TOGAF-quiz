@@ -2025,7 +2025,7 @@
   },
   {
     "id": 185,
-    "question": "Complete the sentence. The four purposes that typically frame the planning horizon, depth and breadth of an Architecture Project, and the contents of the EA Repository are Strategy, Portfolio,",
+    "question": "Complete the sentence. The four purposes that typically frame the planning horizon, depth and breadth of an Architecture Project, and the contents of the EA Repository are Strategy, Portfolio,____________,_______________",
     "options": [
       "Project, and Solution Delivery.",
       "Subordinate, and Superior Architecture.",
@@ -2750,6 +2750,7 @@
     "answer": 0
   }
 ]
+
 
 
 
