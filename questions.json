@@ -1871,47 +1871,47 @@
   },
   {
     "id": 171,
-    "question": "Which ADM phase incorporates lessons learned into continuous architecture practice?",
+    "question": "Which statement about Requirements Management is most correct?",
     "options": [
-      "Phase H: Architecture Change Management",
-      "Phase G: Implementation Governance",
-      "Phase E: Opportunities and Solutions",
-      "Phase D: Technology Architecture"
+      "Requirements Management and stakeholder engagement are placed at the center of architecture development.",
+      "Stakeholder requirements are captured once in Phase A and managed throughout the ADM cycle.",
+      "Requirements Management is a step of all ADM Phases.",
+      "The purpose of Requirements Management is to process change requests."
     ],
     "answer": 0
   },
   {
     "id": 172,
-    "question": "Which TOGAF deliverable specifies standards and policies for project execution?",
+    "question": "Which of the following best describes the class of information known as the Reference Library within the Architecture Repository?",
     "options": [
-      "Implementation Governance Model",
-      "Architecture Vision",
-      "Architecture Contract",
-      "Statement of Architecture Work"
+      "A record of the governance activity across the enterprise",
+      "Processes to support governance of the Architecture Repository",
+      "Specifications to which architectures must conform",
+      "Guidelines and templates used to create new architectures"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "id": 173,
-    "question": "Which ADM phase packages project increments into programs?",
+    "question": "Which of the following describes how the Enterprise Continuum is used when developing an enterprise architecture?",
     "options": [
-      "Phase F: Migration Planning",
-      "Phase G: Implementation Governance",
-      "Phase H: Architecture Change Management",
-      "Phase D: Technology Architecture"
+      "To describe how an architecture addresses stakeholder concerns",
+      "To classify architecture and solution assets",
+      "To identify and understand business requirements",
+      "To coordinate with the other management frameworks in use"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
     "id": 174,
-    "question": "Which TOGAF concept emphasizes balancing opportunities and risks?",
+    "question": "What is used to structure architectural information in an orderly way so that it can be processed to meet stakeholder needs?",
     "options": [
-      "Risk Management",
-      "Implementation Governance",
-      "Transition Planning",
-      "System Engineering"
+      "An EA Library",
+      "A Content Metamodel",
+      "A Stakeholder Map",
+      "An Architecture Framework"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
     "id": 175,
@@ -2750,6 +2750,7 @@
     "answer": 0
   }
 ]
+
 
 
 
