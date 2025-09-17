@@ -1783,91 +1783,91 @@
   },
   {
     "id": 163,
-    "question": "Which ADM phase monitors and analyzes business environment for triggers?",
+    "question": "Which phase of the ADM has the purpose to develop an Enterprise Architecture Capability?",
     "options": [
-      "Phase H: Architecture Change Management",
-      "Phase G: Implementation Governance",
-      "Phase F: Migration Planning",
-      "Phase D: Technology Architecture"
+      "Phase G",
+      "Preliminary Phase",
+      "Phase A",
+      "Phase B"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
     "id": 164,
-    "question": "Which TOGAF catalog provides a master list of identified applications?",
+    "question": "Which of the following supports the need to govern Enterprise Architecture?",
     "options": [
-      "Application Portfolio Catalog",
-      "Technology Portfolio",
-      "Business Service Catalog",
-      "Requirements Catalog"
+      "The Architecture Project mandates the governance of the target architecture",
+      "The TOGAF standard cannot be used without executive governance",
+      "Best practice governance enables the organization to control value realization",
+      "The Stakeholders preferences may go beyond the architecture project scope and needs control"
     ],
-    "answer": 0
+    "answer": 2
   },
   {
     "id": 165,
-    "question": "Which ADM phase ensures change requests are documented and approved?",
+    "question": "Which of the following does the TOGAF standard describe as a package of functionality defined to meet business needs across an organization?",
     "options": [
-      "Phase H: Architecture Change Management",
-      "Phase F: Migration Planning",
-      "Phase C: Information Systems Architecture",
-      "Phase A: Architecture Vision"
+      "An application",
+      "A deliverable",
+      "A solution architecture",
+      "A building block"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "id": 166,
-    "question": "Which TOGAF repository delivers libraries of reusable capability-based solutions?",
+    "question": "What is presented as ''striking a balance between positive and negative outcomes resulting from the realization of either opportunities or threats?",
     "options": [
-      "Reference Library",
-      "Architecture Landscape",
-      "Standards Base",
-      "Architecture Contract"
+      "Agile development",
+      "Architecture Security",
+      "Transition Management",
+      "Risk Management"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "id": 167,
-    "question": "Which ADM phase verifies whether implementation projects align with migration plan?",
+    "question": "Which of the following are the four purposes that typically frame the planning horizon, depth and breadth of an Architecture Project, and the contents of the EA Repository-?",
     "options": [
-      "Phase G: Implementation Governance",
-      "Phase H: Architecture Change Management",
-      "Phase F: Migration Planning",
-      "Phase E: Opportunities and Solutions"
+      "General Foundational Subordinate and Superior Architecture",
+      "Segment, Capability. Enterprise and End-to-end Target Architecture",
+      "Avant-Garde Big-Bang, Discreet and Cohesive",
+      "Strategy Portfolio Project Solution Delivery"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "id": 168,
-    "question": "Which TOGAF principle underscores maximizing reuse of architectural components?",
+    "question": "Complete the sentence Business Transformation Readiness Assessment is_________________.",
     "options": [
-      "Reuse Before Buy Before Build",
-      "Technology Independence",
-      "Separation of Concerns",
-      "Value Delivery"
+      "a joint effort between corporate staff lines of business and IT planners",
+      "to ensure the active support of powerful stakeholders",
+      "a way to put building blocks into context thereby supporting re-usable solutions",
+      "widely used to validate an architecture that is being developed"
     ],
-    "answer": 0
+    "answer": null
   },
   {
     "id": 169,
-    "question": "Which ADM phase manages project initiation according to migration sequencing?",
+    "question": "Complete the following sentence. In the ADM documents which are under development and have not undergone any formal review and approval process are_______________.",
     "options": [
-      "Phase F: Migration Planning",
-      "Phase G: Implementation Governance",
-      "Phase H: Architecture Change Management",
-      "Phase B: Business Architecture"
+      "A. Called 'draft'",
+      "B. Invalid",
+      "C. In between phases",
+      "D. Known as 'Version 0.1'"
     ],
     "answer": 0
   },
   {
     "id": 170,
-    "question": "Which catalog captures external system interfaces?",
+    "question": "Complete the sentence The TOGAF standard covers the development of four architecture domains. Business. Data, Technology and__________________.",
     "options": [
-      "Application Interface Catalog",
-      "Requirements Catalog",
-      "Business Process Catalog",
-      "Data Entity Catalog"
+      "Segment",
+      "Transition",
+      "Capability",
+      "Application"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "id": 171,
@@ -2750,6 +2750,7 @@
     "answer": 0
   }
 ]
+
 
 
 
