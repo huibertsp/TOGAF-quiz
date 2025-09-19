@@ -1846,7 +1846,7 @@
       "a way to put building blocks into context thereby supporting re-usable solutions",
       "widely used to validate an architecture that is being developed"
     ],
-    "answer": null
+    "answer": 0
   },
   {
     "id": 169,
@@ -2751,6 +2751,7 @@
     "answer": 0
   }
 ]
+
 
 
 
