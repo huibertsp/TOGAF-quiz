@@ -2148,14 +2148,14 @@
   },
   {
     "id": 196,
-    "question": "Which one of the following classes of information within the Architecture Repository would typically contain a list of the applications in use within the enterprise?",
+    "question": "Consider the following statement. Projects may cycle between ADM phases, in planned cycles covering multiple phases. What does it illustrate?",
     "options": [
-      "Reference Library",
-      "Architecture Metamodel",
-      "Architecture Landscape",
-      "Governance Log"
+      "Iteration",
+      "Enterprise Architecture",
+      "Implementation governance",
+      "Requirements management"
     ],
-    "answer": 2
+    "answer": 0
   },
   {
     "id": 197,
@@ -2752,6 +2752,7 @@
     "answer": 0
   }
 ]
+
 
 
 
