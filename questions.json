@@ -1960,15 +1960,15 @@
   },
   {
     "id": 179,
-    "question": "Which phase of the ADM has the purpose to develop an Enterprise Architecture Capability?",
+    "question": "Which of the following is a responsibility of an Architecture Board?",
     "options": [
-      "Phase G",
-      "Preliminary Phase",
-      "Phase A",
+      "Establishing targets for re-use of components",
+      "Creating the Statement of Architecture Work",
+      "Conducting assessments of the maturity level of architecture discipline within the organization",
       "Phase B"
     ],
-    "answer": 1
-  },
+    "answer": 0
+  }, 
   {
     "id": 180,
     "question": "Which ADM phase focuses on defining the problem to be solved, identifying the stakeholders, their concerns, and requirements?",
@@ -2751,6 +2751,7 @@
     "answer": 0
   }
 ]
+
 
 
 
