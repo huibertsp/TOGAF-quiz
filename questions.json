@@ -2004,8 +2004,7 @@
   },
   {
     "id": 183,
-    "question": "Complete the sentence. The Enterprise Continuum provides methods for classifying architecture artifacts as they evolve from ____________________.
-",
+    "question": "Complete the sentence. The Enterprise Continuum provides methods for classifying architecture artifacts as they evolve from ____________________.",
     "options": [
       "generic architectures to reusable Solution Building Blocks",
       "generic architectures to Organization-Specific Architectures",
@@ -2752,6 +2751,7 @@
     "answer": 0
   }
 ]
+
 
 
 
