@@ -1949,12 +1949,12 @@
   },
   {
     "id": 178,
-    "question": "Which of the following does the TOGAF standard describe as a package of functionality defined to meet business needs across an organization?",
+    "question": "The _____________ ensures that a project transitioning into implementation also smoothly transitions into appropriate Architecture Governance.",
     "options": [
-      "An application",
-      "A deliverable",
-      "A solution architecture",
-      "A building block"
+      "Implementation Strategy",
+      "Transition Plan",
+      "Migration Plan",
+      "Implementation Governance Model"
     ],
     "answer": 3
   },
@@ -2752,6 +2752,7 @@
     "answer": 0
   }
 ]
+
 
 
 
