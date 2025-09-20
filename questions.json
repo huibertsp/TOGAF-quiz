@@ -2071,12 +2071,12 @@
   },
   {
     "id": 189,
-    "question": "Which one of the following classes of information within the Architecture Repository would typically contain a list of the applications in use within the enterprise?",
+    "question": "Which of the following best summarizes the purpose of Enterprise Architecture?",
     "options": [
-      "Reference Library",
-      "Architecture Metamodel",
-      "Architecture Landscape",
-      "Governance Log"
+      "Taking major improvement decisions.",
+      "Controlling the bigger changes.",
+      "Guiding effective change.",
+      "Governing the Stakeholders"
     ],
     "answer": 2
   },
@@ -2752,6 +2752,7 @@
     "answer": 0
   }
 ]
+
 
 
 
