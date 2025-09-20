@@ -2698,15 +2698,15 @@
   },
   {
     "id": 246,
-    "question": "What is used to structure architectural information in an orderly way so that it can be processed to meet stakeholder needs?",
+    "question": "Consider the following descriptions of deliverables consumed and produced across the TOGAF ADM cycle. Which deliverables match these descriptions?",
     "options": [
-      "A Stakeholder Map",
-      "An Architecture Framework",
-      "Content Metamodel",
-      "An EA Library"
+      "1 Architecture Principles – 2 Architecture Requirements Specification – 3 Request for Architecture Work – 4 Statement of Architecture Work",
+      "1 Request for Architecture Work – 2 Statement of Architecture Work – 3 Architecture Principles – 4 Architecture Requirements Specification",
+      "1 Statement of Architecture Work – 2 Architecture Principles – 3 Architecture Requirements Specification – 4 Request for Architecture Work",
+      "1 Architecture Requirements Specification – 2 Request for Architecture Work – 3 Statement of Architecture Work – 4 Architecture Principles"
     ],
     "answer": 1
-  },
+  }, 
   {
     "id": 247,
     "question": "Complete the sentence A set of architecture principles that cover every situation perceived meets the recommended criteria of______________.",
@@ -2752,6 +2752,7 @@
     "answer": 0
   }
 ]
+
 
 
 
