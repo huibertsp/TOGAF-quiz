@@ -2004,15 +2004,16 @@
   },
   {
     "id": 183,
-    "question": "Which phase of the ADM has the purpose to develop an Enterprise Architecture Capability?",
+    "question": "Complete the sentence. The Enterprise Continuum provides methods for classifying architecture artifacts as they evolve from ____________________.
+",
     "options": [
-      "Phase G",
-      "Preliminary Phase",
-      "Phase A",
-      "Phase B"
+      "generic architectures to reusable Solution Building Blocks",
+      "generic architectures to Organization-Specific Architectures",
+      "Foundation Architectures to re-usable architecture assets",
+      "Solutions Architectures to Solution Building Blocks"
     ],
     "answer": 1
-  },
+  }, 
   {
     "id": 184,
     "question": "Which ADM phase focuses on defining the problem to be solved, identifying the stakeholders, their concerns, and requirements?",
@@ -2751,6 +2752,7 @@
     "answer": 0
   }
 ]
+
 
 
 
