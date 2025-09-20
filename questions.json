@@ -2720,15 +2720,15 @@
   },
   {
     "id": 248,
-    "question": "Which of the following best describes the class of information known as the Reference Library within the Architecture Repository?",
+    "question": "Which section of the TOGAF template for Architecture Principles should highlight the business benefits of adhering to the principle?",
     "options": [
-      "Guidelines and templates used to create new architectures",
-      "Specifications to which architectures must conform",
-      "A record of the governance activity across the enterprise",
-      "Processes to support governance of the Architecture Repository"
+      "Implications",
+      "Rationale",
+      "Statement",
+      "Name"
     ],
-    "answer": 0
-  },
+    "answer": 1
+  },  
   {
     "id": 249,
     "question": "Complete the sentence The purpose of Enterprise Architecture is to______________.",
@@ -2752,6 +2752,7 @@
     "answer": 0
   }
 ]
+
 
 
 
