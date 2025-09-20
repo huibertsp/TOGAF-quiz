@@ -2577,15 +2577,15 @@
   },
   {
     "id": 235,
-    "question": "Which of the following supports the need to govern Enterprise Architecture?",
+    "question": "What is an objective of the ADM Preliminary Phase?",
     "options": [
-      "The Architecture Project mandates the governance of the target architecture",
-      "The TOGAF standard cannot be used without executive governance",
-      "Best practice governance enables the organization to control value realization",
-      "The Stakeholders preferences may go beyond the architecture project scope and needs control"
+      "To obtain approval for the Statement of Architecture Work",
+      "To create the initial version of the Architecture Roadmap",
+      "To develop a vision of the business value to be delivered by the proposed enterprise architecture",
+      "To select and implement tools to support the Architecture Capability"
     ],
-    "answer": 2
-  },
+    "answer": 3
+  },  
   {
     "id": 236,
     "question": "Complete the sentence The Architecture Landscape is divided into levels known as ________________.",
@@ -2752,6 +2752,7 @@
     "answer": 0
   }
 ]
+
 
 
 
