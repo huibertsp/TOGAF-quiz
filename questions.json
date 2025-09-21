@@ -1270,7 +1270,6 @@
     "options": [
       "To determine technology solutions for the organization.",
       "To define the scope of the architecture capability.",
-      "Your answer is incorrect",
       "To select reference models, viewpoints, and tools.",
       "To develop the target architecture."
     ],
@@ -2751,6 +2750,7 @@
     "answer": 0
   }
 ]
+
 
 
 
