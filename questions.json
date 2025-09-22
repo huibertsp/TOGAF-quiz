@@ -4,9 +4,9 @@
     "question": "Which cycle in TOGAF ADM ensures continuous monitoring of architecture relevance?",
     "options": [
       "Preliminary Phase",
-      "Phase H: Architecture Change Management",
-      "Phase G: Implementation Governance",
-      "Phase E: Opportunities & Solutions"
+      "Phase H",
+      "Phase G",
+      "Phase E"
     ],
     "answer": 1
   },
@@ -14,10 +14,10 @@
     "id": 2,
     "question": "Which ADM phase defines the scope and business intent of an architecture engagement?",
     "options": [
-      "Phase A: Architecture Vision",
-      "Phase B: Business Architecture",
-      "Phase E: Opportunities and Solutions",
-      "Phase D: Technology Architecture"
+      "Phase A",
+      "Phase B",
+      "Phase E",
+      "Phase D"
     ],
     "answer": 0
   },
@@ -58,10 +58,10 @@
     "id": 6,
     "question": "Which ADM phase is concerned with implementation-related governance?",
     "options": [
-      "Phase C: Information Systems Architecture",
-      "Phase G: Implementation Governance",
-      "Phase D: Technology Architecture",
-      "Phase F: Migration Planning"
+      "Phase C",
+      "Phase G",
+      "Phase D",
+      "Phase F"
     ],
     "answer": 1
   },
@@ -113,10 +113,10 @@
     "id": 11,
     "question": "Which ADM phase primarily develops the Business Architecture?",
     "options": [
-      "Phase B: Business Architecture",
-      "Phase A: Architecture Vision",
-      "Phase D: Technology Architecture",
-      "Phase F: Migration Planning"
+      "Phase B",
+      "Phase A",
+      "Phase D",
+      "Phase F"
     ],
     "answer": 0
   },
@@ -135,10 +135,10 @@
     "id": 13,
     "question": "Which ADM phase is responsible for developing Data and Application Architectures?",
     "options": [
-      "Phase D: Technology Architecture",
-      "Phase C: Information Systems Architecture",
-      "Phase F: Migration Planning",
-      "Phase H: Architecture Change Management"
+      "Phase D",
+      "Phase C",
+      "Phase F",
+      "Phase H"
     ],
     "answer": 1
   },
@@ -157,10 +157,10 @@
     "id": 15,
     "question": "Which ADM phase conducts Gap Analysis between Baseline and Target states?",
     "options": [
-      "Phase B: Business Architecture",
+      "Phase B",
       "Phases B, C, and D",
-      "Phase G: Implementation Governance",
-      "Phase E: Opportunities and Solutions"
+      "Phase G",
+      "Phase E"
     ],
     "answer": 1
   },
@@ -179,10 +179,10 @@
     "id": 17,
     "question": "Which ADM phase provides governance during the implementation projects?",
     "options": [
-      "Phase H: Architecture Change Management",
-      "Phase G: Implementation Governance",
-      "Phase D: Technology Architecture",
-      "Phase F: Migration Planning"
+      "Phase H",
+      "Phase G",
+      "Phase D",
+      "Phase F"
     ],
     "answer": 1
   },
@@ -201,10 +201,10 @@
     "id": 19,
     "question": "In which phase is the Architecture Vision approved?",
     "options": [
-      "Phase H: Architecture Change Management",
-      "Phase G: Implementation Governance",
-      "Phase A: Architecture Vision",
-      "Phase F: Migration Planning"
+      "Phase H",
+      "Phase G",
+      "Phase A",
+      "Phase F"
     ],
     "answer": 2
   },
@@ -245,10 +245,10 @@
     "id": 23,
     "question": "Which ADM phase defines the Implementation and Migration Plan?",
     "options": [
-      "Phase F: Migration Planning",
-      "Phase G: Implementation Governance",
-      "Phase H: Architecture Change Management",
-      "Phase A: Architecture Vision"
+      "Phase F",
+      "Phase G",
+      "Phase H",
+      "Phase A"
     ],
     "answer": 0
   },
@@ -278,10 +278,10 @@
     "id": 26,
     "question": "Which ADM phase is primarily concerned with developing the Technology Architecture?",
     "options": [
-      "Phase D: Technology Architecture",
-      "Phase C: Information Systems Architecture",
-      "Phase B: Business Architecture",
-      "Phase G: Implementation Governance"
+      "Phase D",
+      "Phase C",
+      "Phase B",
+      "Phase G"
     ],
     "answer": 0
   },
@@ -311,10 +311,10 @@
     "id": 29,
     "question": "Which ADM phase is where key business drivers and stakeholder concerns are identified?",
     "options": [
-      "Phase A: Architecture Vision",
-      "Phase B: Business Architecture",
-      "Phase D: Technology Architecture",
-      "Phase H: Architecture Change Management"
+      "Phase A",
+      "Phase B",
+      "Phase D",
+      "Phase H"
     ],
     "answer": 0
   },
@@ -333,10 +333,10 @@
     "id": 31,
     "question": "Which ADM phase identifies and evaluates opportunities for business transformation?",
     "options": [
-      "Phase B: Business Architecture",
-      "Phase E: Opportunities & Solutions",
-      "Phase A: Architecture Vision",
-      "Phase G: Implementation Governance"
+      "Phase B",
+      "Phase E",
+      "Phase A",
+      "Phase G"
     ],
     "answer": 1
   },
@@ -367,9 +367,9 @@
     "question": "Which ADM phase ensures governance arrangements are established and architecture practice is set up?",
     "options": [
       "Preliminary Phase",
-      "Phase B: Business Architecture",
-      "Phase A: Architecture Vision",
-      "Phase E: Opportunities and Solutions"
+      "Phase B",
+      "Phase A",
+      "Phase E"
     ],
     "answer": 0
   },
@@ -388,9 +388,9 @@
     "id": 36,
     "question": "Which ADM phase ensures architectures remain relevant as the organization evolves?",
     "options": [
-      "Phase G: Implementation Governance",
-      "Phase H: Architecture Change Management",
-      "Phase C: Information Systems Architecture",
+      "Phase G",
+      "Phase H",
+      "Phase C",
       "Preliminary Phase"
     ],
     "answer": 1
@@ -410,10 +410,10 @@
     "id": 38,
     "question": "Which ADM phase is responsible for producing the Target Technology Architecture?",
     "options": [
-      "Phase D: Technology Architecture",
-      "Phase F: Migration Planning",
-      "Phase G: Implementation Governance",
-      "Phase C: Information Systems Architecture"
+      "Phase D",
+      "Phase F",
+      "Phase G",
+      "Phase C"
     ],
     "answer": 0
   },
@@ -443,10 +443,10 @@
     "id": 41,
     "question": "Which ADM phase produces Architecture Roadmaps for implementation?",
     "options": [
-      "Phase F: Migration Planning",
-      "Phase G: Implementation Governance",
-      "Phase B: Business Architecture",
-      "Phase E: Opportunities and Solutions"
+      "Phase F",
+      "Phase G",
+      "Phase B",
+      "Phase E"
     ],
     "answer": 0
   },
@@ -498,10 +498,10 @@
     "id": 46,
     "question": "Which ADM phase is iterative and ensures compliance of projects with the architecture?",
     "options": [
-      "Phase G: Implementation Governance",
-      "Phase F: Migration Planning",
-      "Phase C: Information Systems Architecture",
-      "Phase B: Business Architecture"
+      "Phase G",
+      "Phase F",
+      "Phase C",
+      "Phase B"
     ],
     "answer": 0
   },
@@ -520,10 +520,10 @@
     "id": 48,
     "question": "Which ADM phase develops Application Architecture models?",
     "options": [
-      "Phase C: Information Systems Architecture",
-      "Phase D: Technology Architecture",
-      "Phase B: Business Architecture",
-      "Phase H: Architecture Change Management"
+      "Phase C",
+      "Phase D",
+      "Phase B",
+      "Phase H"
     ],
     "answer": 0
   },
@@ -542,10 +542,10 @@
     "id": 50,
     "question": "Which ADM phase creates the Implementation and Migration Plan for delivery projects?",
     "options": [
-      "Phase F: Migration Planning",
-      "Phase E: Opportunities and Solutions",
-      "Phase H: Architecture Change Management",
-      "Phase B: Business Architecture"
+      "Phase F",
+      "Phase E",
+      "Phase H",
+      "Phase B"
     ],
     "answer": 0
   },
@@ -564,10 +564,10 @@
     "id": 52,
     "question": "Which ADM phase assesses implementation factors, constraints, and risks?",
     "options": [
-      "Phase E: Opportunities and Solutions",
-      "Phase A: Architecture Vision",
-      "Phase G: Implementation Governance",
-      "Phase D: Technology Architecture"
+      "Phase E",
+      "Phase A",
+      "Phase G",
+      "Phase D"
     ],
     "answer": 0
   },
@@ -586,10 +586,10 @@
     "id": 54,
     "question": "Which ADM phase confirms business value by evaluating delivered solutions?",
     "options": [
-      "Phase H: Architecture Change Management",
-      "Phase G: Implementation Governance",
-      "Phase B: Business Architecture",
-      "Phase D: Technology Architecture"
+      "Phase H",
+      "Phase G",
+      "Phase B",
+      "Phase D"
     ],
     "answer": 1
   },
@@ -608,10 +608,10 @@
     "id": 56,
     "question": "Which ADM phase defines baseline and target Business Architecture?",
     "options": [
-      "Phase B: Business Architecture",
-      "Phase A: Architecture Vision",
-      "Phase F: Migration Planning",
-      "Phase H: Architecture Change Management"
+      "Phase B",
+      "Phase A",
+      "Phase F",
+      "Phase H"
     ],
     "answer": 0
   },
@@ -630,10 +630,10 @@
     "id": 58,
     "question": "Which ADM phase involves conducting Architecture Compliance Reviews?",
     "options": [
-      "Phase G: Implementation Governance",
-      "Phase D: Technology Architecture",
-      "Phase C: Information Systems Architecture",
-      "Phase H: Architecture Change Management"
+      "Phase G",
+      "Phase D",
+      "Phase C",
+      "Phase H"
     ],
     "answer": 0
   },
@@ -652,10 +652,10 @@
     "id": 60,
     "question": "Which ADM phase ensures risks are identified and classified for transition planning?",
     "options": [
-      "Phase E: Opportunities and Solutions",
-      "Phase F: Migration Planning",
-      "Phase G: Implementation Governance",
-      "Phase A: Architecture Vision"
+      "Phase E",
+      "Phase F",
+      "Phase G",
+      "Phase A"
     ],
     "answer": 0
   },
@@ -817,10 +817,10 @@
     "id": 75,
     "question": "Which ADM phase defines which projects should be grouped into work packages?",
     "options": [
-      "Phase F: Migration Planning",
-      "Phase E: Opportunities and Solutions",
-      "Phase G: Implementation Governance",
-      "Phase H: Architecture Change Management"
+      "Phase F",
+      "Phase E",
+      "Phase G",
+      "Phase H"
     ],
     "answer": 1
   },
@@ -840,9 +840,9 @@
     "question": "Which ADM phase typically highlights business drivers and value proposition of the architecture?",
     "options": [
       "Preliminary Phase",
-      "Phase A: Architecture Vision",
-      "Phase F: Migration Planning",
-      "Phase H: Architecture Change Management"
+      "Phase A",
+      "Phase F",
+      "Phase H"
     ],
     "answer": 1
   },
@@ -862,9 +862,9 @@
     "question": "Which ADM phase uses architecture building blocks and solution building blocks to design?",
     "options": [
       "Phase C and Phase D",
-      "Phase F: Migration Planning",
-      "Phase G: Implementation Governance",
-      "Phase A: Architecture Vision"
+      "Phase F",
+      "Phase G",
+      "Phase A"
     ],
     "answer": 0
   },
@@ -883,10 +883,10 @@
     "id": 81,
     "question": "Which ADM phase provides a risk assessment for migration planning?",
     "options": [
-      "Phase F: Migration Planning",
-      "Phase G: Implementation Governance",
-      "Phase H: Architecture Change Management",
-      "Phase E: Opportunities and Solutions"
+      "Phase F",
+      "Phase G",
+      "Phase H",
+      "Phase E"
     ],
     "answer": 0
   },
@@ -905,10 +905,10 @@
     "id": 83,
     "question": "Which ADM phase is responsible for implementation projects and ensuring compliance?",
     "options": [
-      "Phase G: Implementation Governance",
-      "Phase B: Business Architecture",
-      "Phase C: Information Systems Architecture",
-      "Phase D: Technology Architecture"
+      "Phase G",
+      "Phase B",
+      "Phase C",
+      "Phase D"
     ],
     "answer": 0
   },
@@ -916,10 +916,10 @@
     "id": 84,
     "question": "Which ADM phase prepares recommendations for transition architectures?",
     "options": [
-      "Phase E: Opportunities and Solutions",
-      "Phase F: Migration Planning",
-      "Phase G: Implementation Governance",
-      "Phase H: Architecture Change Management"
+      "Phase E",
+      "Phase F",
+      "Phase G",
+      "Phase H"
     ],
     "answer": 0
   },
@@ -949,10 +949,10 @@
     "id": 87,
     "question": "Which ADM phase ensures proper sequencing of projects in migration planning?",
     "options": [
-      "Phase F: Migration Planning",
-      "Phase E: Opportunities and Solutions",
-      "Phase C: Information Systems Architecture",
-      "Phase B: Business Architecture"
+      "Phase F",
+      "Phase E",
+      "Phase C",
+      "Phase B"
     ],
     "answer": 0
   },
@@ -971,10 +971,10 @@
     "id": 89,
     "question": "Which ADM phase defines the baseline and target Data Architecture?",
     "options": [
-      "Phase C: Information Systems Architecture",
-      "Phase D: Technology Architecture",
-      "Phase A: Architecture Vision",
-      "Phase E: Opportunities and Solutions"
+      "Phase C",
+      "Phase D",
+      "Phase A",
+      "Phase E"
     ],
     "answer": 0
   },
@@ -993,10 +993,10 @@
     "id": 91,
     "question": "Which ADM phase translates business needs into measurable system requirements?",
     "options": [
-      "Phase B: Business Architecture",
-      "Phase C: Information Systems Architecture",
-      "Phase F: Migration Planning",
-      "Phase H: Architecture Change Management"
+      "Phase B",
+      "Phase C",
+      "Phase F",
+      "Phase H"
     ],
     "answer": 1
   },
@@ -1015,10 +1015,10 @@
     "id": 93,
     "question": "Which ADM phase finalizes the Implementation and Migration Plan?",
     "options": [
-      "Phase F: Migration Planning",
-      "Phase G: Implementation Governance",
-      "Phase E: Opportunities and Solutions",
-      "Phase B: Business Architecture"
+      "Phase F",
+      "Phase G",
+      "Phase E",
+      "Phase B"
     ],
     "answer": 0
   },
@@ -1037,10 +1037,10 @@
     "id": 95,
     "question": "Which ADM phase validates delivered architectures against requirements?",
     "options": [
-      "Phase F: Migration Planning",
-      "Phase G: Implementation Governance",
-      "Phase H: Architecture Change Management",
-      "Phase D: Technology Architecture"
+      "Phase F",
+      "Phase G",
+      "Phase H",
+      "Phase D"
     ],
     "answer": 1
   },
@@ -1059,10 +1059,10 @@
     "id": 97,
     "question": "Which ADM phase creates a high-level description of baseline and target capabilities?",
     "options": [
-      "Phase A: Architecture Vision",
-      "Phase B: Business Architecture",
-      "Phase E: Opportunities and Solutions",
-      "Phase H: Architecture Change Management"
+      "Phase A",
+      "Phase B",
+      "Phase E",
+      "Phase H"
     ],
     "answer": 0
   },
@@ -1081,10 +1081,10 @@
     "id": 99,
     "question": "Which ADM phase is especially concerned with assessing the value delivered by change?",
     "options": [
-      "Phase H: Architecture Change Management",
-      "Phase B: Business Architecture",
-      "Phase G: Implementation Governance",
-      "Phase D: Technology Architecture"
+      "Phase H",
+      "Phase B",
+      "Phase G",
+      "Phase D"
     ],
     "answer": 0
   },
@@ -1543,10 +1543,10 @@
     "id": 141,
     "question": "Which ADM phase ensures architects monitor changes in business environment?",
     "options": [
-      "Phase H: Architecture Change Management",
-      "Phase G: Implementation Governance",
-      "Phase E: Opportunities and Solutions",
-      "Phase B: Business Architecture"
+      "Phase H",
+      "Phase G",
+      "Phase E",
+      "Phase B"
     ],
     "answer": 0
   },
@@ -1565,10 +1565,10 @@
     "id": 143,
     "question": "Which ADM phase defines risk mitigation actions for migration?",
     "options": [
-      "Phase F: Migration Planning",
-      "Phase G: Implementation Governance",
-      "Phase H: Architecture Change Management",
-      "Phase A: Architecture Vision"
+      "Phase F",
+      "Phase G",
+      "Phase H",
+      "Phase A"
     ],
     "answer": 0
   },
@@ -1587,10 +1587,10 @@
     "id": 145,
     "question": "Which ADM phase is responsible for data-related architecture deliverables?",
     "options": [
-      "Phase C: Information Systems Architecture",
-      "Phase B: Business Architecture",
-      "Phase D: Technology Architecture",
-      "Phase E: Opportunities and Solutions"
+      "Phase C",
+      "Phase B",
+      "Phase D",
+      "Phase E"
     ],
     "answer": 0
   },
@@ -1610,9 +1610,9 @@
     "question": "Which ADM phase refines the Architecture Vision into detailed architectures?",
     "options": [
       "Phase B, C, and D",
-      "Phase E: Opportunities and Solutions",
-      "Phase F: Migration Planning",
-      "Phase H: Architecture Change Management"
+      "Phase E",
+      "Phase F",
+      "Phase H"
     ],
     "answer": 0
   },
@@ -1631,10 +1631,10 @@
     "id": 149,
     "question": "Which ADM phase manages approved changes to architecture contracts?",
     "options": [
-      "Phase H: Architecture Change Management",
-      "Phase G: Implementation Governance",
-      "Phase F: Migration Planning",
-      "Phase D: Technology Architecture"
+      "Phase H",
+      "Phase G",
+      "Phase F",
+      "Phase D"
     ],
     "answer": 0
   },
@@ -1654,9 +1654,9 @@
     "question": "Which ADM phase approves the Statement of Architecture Work?",
     "options": [
       "Preliminary Phase",
-      "Phase A: Architecture Vision",
-      "Phase F: Migration Planning",
-      "Phase G: Implementation Governance"
+      "Phase A",
+      "Phase F",
+      "Phase G"
     ],
     "answer": 1
   },
@@ -1675,10 +1675,10 @@
     "id": 153,
     "question": "Which ADM phase ensures migration projects are organized into increments?",
     "options": [
-      "Phase E: Opportunities and Solutions",
-      "Phase F: Migration Planning",
-      "Phase G: Implementation Governance",
-      "Phase H: Architecture Change Management"
+      "Phase E",
+      "Phase F",
+      "Phase G",
+      "Phase H"
     ],
     "answer": 1
   },
@@ -1697,10 +1697,10 @@
     "id": 155,
     "question": "Which ADM phase formally approves transition architectures?",
     "options": [
-      "Phase F: Migration Planning",
-      "Phase E: Opportunities and Solutions",
-      "Phase G: Implementation Governance",
-      "Phase H: Architecture Change Management"
+      "Phase F",
+      "Phase E",
+      "Phase G",
+      "Phase H"
     ],
     "answer": 1
   },
@@ -1719,10 +1719,10 @@
     "id": 157,
     "question": "Which ADM phase defines both logical and physical technology architectures?",
     "options": [
-      "Phase D: Technology Architecture",
-      "Phase B: Business Architecture",
-      "Phase C: Information Systems Architecture",
-      "Phase F: Migration Planning"
+      "Phase D",
+      "Phase B",
+      "Phase C",
+      "Phase F"
     ],
     "answer": 0
   },
@@ -1741,10 +1741,10 @@
     "id": 159,
     "question": "Which ADM phase evaluates change requests for architecture?",
     "options": [
-      "Phase H: Architecture Change Management",
-      "Phase G: Implementation Governance",
-      "Phase E: Opportunities and Solutions",
-      "Phase F: Migration Planning"
+      "Phase H",
+      "Phase G",
+      "Phase E",
+      "Phase F"
     ],
     "answer": 0
   },
@@ -1763,10 +1763,10 @@
     "id": 161,
     "question": "Which ADM phase creates an Architecture Roadmap?",
     "options": [
-      "Phase E: Opportunities and Solutions",
-      "Phase F: Migration Planning",
-      "Phase B: Business Architecture",
-      "Phase C: Information Systems Architecture"
+      "Phase E",
+      "Phase F",
+      "Phase B",
+      "Phase C"
     ],
     "answer": 0
   },
@@ -2750,41 +2750,3 @@
     "answer": 0
   }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
