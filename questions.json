@@ -1937,12 +1937,12 @@
   },
   {
     "id": 177,
-    "question": "Consider the following statements:\n\n1. Groups of countries, governments, or governmental organizations (such as militaries) working together to create common or shareable deliverables or infrastructures\n2. Partnerships and alliances of businesses working together, such as a consortium or supply chain\n\nWhat are those examples of according to the TOGAF Standard?",
+    "question": "Consider the following statements:<BR><BR>1. Groups of countries, governments, or governmental organizations (such as militaries) working together to create common or shareable deliverables or infrastructures<BR>2. Partnerships and alliances of businesses working together, such as a consortium or supply chain<BR><BR>What are those examples of according to the TOGAF Standard?",
     "options": [
-      "A- Enterprises",
-      "B- Organizations",
-      "C- Business Units",
-      "D- Architectures Scopes"
+      "Enterprises",
+      "Organizations",
+      "Business Units",
+      "Architectures Scopes"
     ],
     "answer": 3
   },
@@ -2750,6 +2750,7 @@
     "answer": 0
   }
 ]
+
 
 
 
