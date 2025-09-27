@@ -2703,7 +2703,7 @@
       "1 Statement of Architecture Work – 2 Architecture Principles – 3 Architecture Requirements Specification – 4 Request for Architecture Work",
       "1 Architecture Requirements Specification – 2 Request for Architecture Work – 3 Statement of Architecture Work – 4 Architecture Principles"
     ],
-    "answer": 1
+    "answer": 0
   }, 
   {
     "id": 247,
@@ -2750,6 +2750,7 @@
     "answer": 0
   }
 ]
+
 
 
 
