@@ -694,7 +694,7 @@
   },
   {
     "id": 64,
-    "question": "Consider the following statements:\n1. A whole corporation or a division of a corporation\n2. A government agency or a single government department\n3. Partnerships and alliances of businesses working together, such as a consortium or supply chain\n\nWhat are those examples of according to the TOGAF Standard?",
+    "question": "Consider the following statements:<BR><BR>1. A whole corporation or a division of a corporation<BR>n2. A government agency or a single government department<BT>3. Partnerships and alliances of businesses working together, such as a consortium or supply chain<BT><BT>What are those examples of according to the TOGAF Standard?",
     "options": [
       "Organizations",
       "Enterprises",
@@ -2750,6 +2750,7 @@
     "answer": 0
   }
 ]
+
 
 
 
