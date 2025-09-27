@@ -760,7 +760,7 @@
   },
   {
     "id": 70,
-    "question": "Consider the following statements.\n1. All processes, decision-making, and mechanisms used will be established so as to minimize or avoid potential conflicts of interest.\n2. More effective strategic decision-making will be made by C-Level executives and business leaders.\n3. All actions implemented and their decision support will be available for inspection by authorized organization and provider parties.\n4. Digital Transformation and operations will be more effective and efficient.\n\nWhich statements highlight the value and necessity for Architecture Governance to be adopted within organizations?",
+    "question": "Consider the following statements.<BR><BR>1. All processes, decision-making, and mechanisms used will be established so as to minimize or avoid potential conflicts of interest.<BR>2. More effective strategic decision-making will be made by C-Level executives and business leaders.<BR>3. All actions implemented and their decision support will be available for inspection by authorized organization and provider parties.<BR>4. Digital Transformation and operations will be more effective and efficient.<BR><BR>Which statements highlight the value and necessity for Architecture Governance to be adopted within organizations?",
     "options": [
       "1 & 3",
       "2 & 3",
@@ -2750,6 +2750,7 @@
     "answer": 0
   }
 ]
+
 
 
 
